@@ -211,3 +211,4 @@ Tema claro com acento roxo. Arquivos alterados:
 - **Auto-update**: `electron-updater` checa GitHub releases no startup (5s após janela). Download automático. Notifica renderer via IPC `update-status`. Usuário pode clicar "Reinstalar agora" ou deixa instalar ao fechar. NSIS installer obrigatório (portable não suporta).
 - **GitHub Actions**: `.github/workflows/release.yml` — trigger em tag `v*`. Builda Windows NSIS, publica release no GitHub automaticamente. Precisa secret `GH_TOKEN` no repo.
 - **Build**: target NSIS (installer). `npm run build` gera `dist/LeadsFlow-Setup-{version}.exe`. `build.publish` aponta pro repo GitHub.
+- **README**: seção "Download" no topo pro usuário final (só baixar .exe + criar conta). Seção "Para Desenvolvedores" no final com setup Node.js/Supabase/NVIDIA. Usuário final não vê prereqs técnicos.
