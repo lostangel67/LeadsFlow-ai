@@ -1,0 +1,5876 @@
+{
+  "activeListId": "clinicas-goiania",
+  "lists": [
+    {
+      "id": "padrao",
+      "nome": "Clinicas de dentista",
+      "createdAt": "2026-04-14T19:44:06.018Z"
+    },
+    {
+      "id": "nova-lista-18-31",
+      "nome": "Leads para limpeza",
+      "createdAt": "2026-04-14T21:31:58.807Z"
+    },
+    {
+      "id": "clinicas-goiania",
+      "nome": "Clinicas Goiania",
+      "createdAt": "2026-04-15T14:46:31.320Z"
+    }
+  ],
+  "leadsByList": {
+    "padrao": [
+      {
+        "nome": "Nippo Dents Clínica Odontológica | Melhores Dentistas | Implantes Dentários São Paulo",
+        "telefone": "+5511963263528",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.547Z",
+        "dataContato": "2026-04-13T20:23:48.154Z"
+      },
+      {
+        "nome": "Dra. Ana Paula Gonçalves - Ana G Odonto",
+        "telefone": "+5562991590249",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:24:18.437Z"
+      },
+      {
+        "nome": "Dr. Gunnar Guimarães",
+        "telefone": "+556234124353",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:24:56.620Z"
+      },
+      {
+        "nome": "Instituto Luiz Zanoni de Odontologia",
+        "telefone": "+556232331860",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:26:04.429Z"
+      },
+      {
+        "nome": "Clínica Bela Vista",
+        "telefone": "+5511989754251",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:26:38.867Z"
+      },
+      {
+        "nome": "São Paulo Dental Stúdio",
+        "telefone": "+5511945068360",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:27:22.210Z"
+      },
+      {
+        "nome": "LSR ODONTOLOGIA",
+        "telefone": "+5511963594671",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:27:59.491Z"
+      },
+      {
+        "nome": "Dr. Leonardo Camargo",
+        "telefone": "+556235410849",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:28:38.805Z"
+      },
+      {
+        "nome": "Dentista 24 horas",
+        "telefone": "+551130896060",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:29:13.170Z"
+      },
+      {
+        "nome": "Doctor&doctor Odontologia Estética",
+        "telefone": "+5511985851071",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.548Z",
+        "dataContato": "2026-04-13T20:30:03.480Z"
+      },
+      {
+        "nome": "Odonto Bela Vista",
+        "telefone": "+5511941346141",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.549Z",
+        "dataContato": "2026-04-13T20:30:34.668Z"
+      },
+      {
+        "nome": "Coopa Odontologia | Dentista em São Paulo",
+        "telefone": "+551133314815",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.549Z",
+        "dataContato": "2026-04-13T20:31:12.990Z"
+      },
+      {
+        "nome": "Dentista 24 horas Centro SP - Dr. Erick Andrade CRO 131.232",
+        "telefone": "+5511992515610",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.549Z",
+        "dataContato": "2026-04-13T20:31:42.261Z"
+      },
+      {
+        "nome": "Odontomania | Clínica Odontológica",
+        "telefone": "+551139550764",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.549Z",
+        "dataContato": "2026-04-13T20:32:14.471Z"
+      },
+      {
+        "nome": "Benatti Odontologia",
+        "telefone": "+5511976324570",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.549Z",
+        "dataContato": "2026-04-13T20:32:58.077Z"
+      },
+      {
+        "nome": "Dentar Odontologia",
+        "telefone": "+5511973290094",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.549Z",
+        "dataContato": "2026-04-13T20:33:33.356Z"
+      },
+      {
+        "nome": "Odontoclinic Vila Mariana - Implantes e Estética",
+        "telefone": "+5511999458333",
+        "contatado": true,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.549Z",
+        "dataContato": "2026-04-13T20:34:40.939Z"
+      },
+      {
+        "nome": "Dra. Renata Pinho - Lagoa Rio Odontologia",
+        "telefone": "+5521984190453",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.550Z",
+        "dataContato": "2026-04-13T20:35:16.274Z"
+      },
+      {
+        "nome": "Dr. Victor Bechara - Dermatologista no Leblon",
+        "telefone": "+5521999991639",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.550Z",
+        "dataContato": "2026-04-13T20:35:49.542Z"
+      },
+      {
+        "nome": "Clínica Odontológica Odontocor - Dentista Centro Rj | Especialista em Tratamento de Canal",
+        "telefone": "+5521996018629",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.550Z",
+        "dataContato": "2026-04-13T20:36:23.758Z"
+      },
+      {
+        "nome": "Clínica Odontológica Oral 360 Copacabana | Dentista",
+        "telefone": "+5521998133001",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.550Z",
+        "dataContato": "2026-04-13T20:37:39.496Z"
+      },
+      {
+        "nome": "Odontoarte Rio | Odontologia Especializada",
+        "telefone": "+5521988343607",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.550Z",
+        "dataContato": "2026-04-13T20:38:52.740Z"
+      },
+      {
+        "nome": "Dentistas Copacabana - Clínica Odontológica",
+        "telefone": "+5521996167799",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.550Z",
+        "dataContato": "2026-04-13T20:39:26.995Z"
+      },
+      {
+        "nome": "Bianca Barata",
+        "telefone": "+5521995702659",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:40:22.914Z"
+      },
+      {
+        "nome": "Dentista Bonsucesso RJ | Amil Hapvida Metlife Primavida Sulamérica Unimed",
+        "telefone": "+552122638960",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:41:49.804Z"
+      },
+      {
+        "nome": "Dentista Copacabana RJ | Amil Hapvida Metlife Primavida Sulamérica Unimed",
+        "telefone": "+5521994924106",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:42:24.450Z"
+      },
+      {
+        "nome": "Centro Odontológico Carioca | Dentista Centro RJ",
+        "telefone": "+5521996790295",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:43:07.086Z"
+      },
+      {
+        "nome": "Rio Dentistas 24 Horas",
+        "telefone": "+5521993728715",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:43:45.555Z"
+      },
+      {
+        "nome": "MARCELO EMANOEL CIRURGIÃO DENTISTA",
+        "telefone": "+5521999860144",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:44:28.120Z"
+      },
+      {
+        "nome": "DentalRio",
+        "telefone": "+5521992794180",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:45:43.109Z"
+      },
+      {
+        "nome": "CORB - Centro Odontológico Rio Branco",
+        "telefone": "+552122208570",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:46:22.670Z"
+      },
+      {
+        "nome": "IRio Odontologia - Clínica Odontológica na Barra da Tijuca",
+        "telefone": "+5521989003446",
+        "contatado": true,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.551Z",
+        "dataContato": "2026-04-13T20:47:00.290Z"
+      },
+      {
+        "nome": "Oralcare Odontologia",
+        "telefone": "+553139652172",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.552Z",
+        "dataContato": "2026-04-13T20:48:33.514Z"
+      },
+      {
+        "nome": "BH Dentistas",
+        "telefone": "+5531995431207",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.552Z",
+        "dataContato": "2026-04-13T20:49:56.002Z"
+      },
+      {
+        "nome": "Oral Odontologia - Implantes dentarios, Ortodontia, Invisalign, Dentista em Belo Horizonte - Centro",
+        "telefone": "+553136468883",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.552Z",
+        "dataContato": "2026-04-13T20:52:38.551Z"
+      },
+      {
+        "nome": "Grupo Odontológico Carlos Teodorico",
+        "telefone": "+5531973399487",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.552Z",
+        "dataContato": "2026-04-13T20:53:13.563Z"
+      },
+      {
+        "nome": "Alegro Clínica Odontológica",
+        "telefone": "+5531994660252",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.553Z",
+        "dataContato": "2026-04-13T20:54:22.590Z"
+      },
+      {
+        "nome": "Mr.Clean Odontologia e Saúde",
+        "telefone": "+553132247378",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.553Z",
+        "dataContato": "2026-04-13T20:54:54.073Z"
+      },
+      {
+        "nome": "Instituto Oral Premium - Dentista 24 Horas",
+        "telefone": "+5531997367514",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.553Z",
+        "dataContato": "2026-04-13T20:55:44.276Z"
+      },
+      {
+        "nome": "Implante Dentário | Santé Clínica Odontológica | Dentista em Santo Agostinho - BH",
+        "telefone": "+5531984886689",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.553Z",
+        "dataContato": "2026-04-13T20:56:38.425Z"
+      },
+      {
+        "nome": "Odonto QualityBH - Credenciado Sulamérica Odonto, Odontoprev, Bradesco Dental e Exames Periódicos Petrobras",
+        "telefone": "+5531989081171",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.553Z",
+        "dataContato": "2026-04-13T21:31:01.180Z"
+      },
+      {
+        "nome": "Sorrix Belo Horizonte",
+        "telefone": "+5531990901101",
+        "contatado": true,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.553Z",
+        "dataContato": "2026-04-13T21:32:05.735Z"
+      },
+      {
+        "nome": "Hospital Odontologico de Sobradinho",
+        "telefone": "+5561991774848",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.553Z",
+        "dataContato": "2026-04-13T21:34:04.792Z"
+      },
+      {
+        "nome": "Rita Trindade SPA Médico Odontológico - Emergência 24 h (via agendamento)",
+        "telefone": "+556132481140",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-13T21:34:57.542Z"
+      },
+      {
+        "nome": "Nano Odontologia (Unidade Vila Brasília)",
+        "telefone": "+5562991731957",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-14T01:25:12.642Z"
+      },
+      {
+        "nome": "ZR Odonto & Face",
+        "telefone": "+5561998375118",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-14T01:25:42.871Z"
+      },
+      {
+        "nome": "Conic Odontologia",
+        "telefone": "+5561991553963",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-14T01:26:14.109Z"
+      },
+      {
+        "nome": "Dra. Fabiula Dantas Barbiero - Renovare Odontologia Especializada",
+        "telefone": "+5561993364141",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-14T01:26:44.398Z"
+      },
+      {
+        "nome": "Clínica Zelus Odontologia",
+        "telefone": "+5561992694235",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-14T01:27:13.616Z"
+      },
+      {
+        "nome": "Instituto Odontológico Brasília",
+        "telefone": "+5561981659608",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-14T01:27:49.144Z"
+      },
+      {
+        "nome": "All Vida Odontologia",
+        "telefone": "+5561991250101",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.554Z",
+        "dataContato": "2026-04-14T01:28:17.778Z"
+      },
+      {
+        "nome": "Clínica Blu | Dentista em Brasília",
+        "telefone": "+5561983413338",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.555Z",
+        "dataContato": "2026-04-14T09:17:23.384Z"
+      },
+      {
+        "nome": "Clínica Ortobrasília - Dr Sidney Medeiros",
+        "telefone": "+5561998683904",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.555Z",
+        "dataContato": "2026-04-14T09:18:25.410Z"
+      },
+      {
+        "nome": "Clinica Odonthos",
+        "telefone": "+5561982340692",
+        "contatado": true,
+        "cidade": "Brasília",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.555Z",
+        "dataContato": "2026-04-14T09:19:25.972Z"
+      },
+      {
+        "nome": "DENTISTA SALVADOR",
+        "telefone": "+5571996197601",
+        "contatado": false,
+        "cidade": "Salvador",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.557Z"
+      },
+      {
+        "nome": "Oral Unic Implantes Salvador",
+        "telefone": "+557130342222",
+        "contatado": false,
+        "cidade": "Salvador",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.557Z"
+      },
+      {
+        "nome": "Dr. Luciano Dantas - DENTISTA SALVADOR",
+        "telefone": "+5571993061111",
+        "contatado": false,
+        "cidade": "Salvador",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.557Z"
+      },
+      {
+        "nome": "O Dentista - Clinica Odontológica em Salvador",
+        "telefone": "+557132427486",
+        "contatado": false,
+        "cidade": "Salvador",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Clínica Odontológica Dantas Bahia",
+        "telefone": "+557130378523",
+        "contatado": false,
+        "cidade": "Salvador",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "OrtoClin | Clinica Odontológica",
+        "telefone": "+5585996038213",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Clínica Rios",
+        "telefone": "+5585997725842",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Dra. Katia Albuquerque",
+        "telefone": "+5585987372343",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Clínica DentalFe",
+        "telefone": "+5585988061111",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Dr Darcy Mavignier Odonto24h",
+        "telefone": "+5585999720087",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Clínica Vamos Sorrir - Fortaleza II",
+        "telefone": "+558594218501",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Absoluta Odonto",
+        "telefone": "+5585992261495",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "OdontoSul",
+        "telefone": "+5585998463150",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Dra dentista",
+        "telefone": "+5585981992291",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.558Z"
+      },
+      {
+        "nome": "Orto Dente",
+        "telefone": "+5585988834343",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Dr André Pessoa",
+        "telefone": "+558532441888",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Dr. Ney Gomes",
+        "telefone": "+5585997468015",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Dra. Gabriela Maia",
+        "telefone": "+5585996745213",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Odonto Clean",
+        "telefone": "+558530992265",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Dra. Priscila Saraiva",
+        "telefone": "+5585996857675",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Dentz Parquelândia",
+        "telefone": "+558531115184",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Dr Leandro Dias, Dentista: ATM, Bruxismo, Implantes, DTM",
+        "telefone": "+5585984303354",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.559Z"
+      },
+      {
+        "nome": "Primare Odontologia – Excelência em Implantes, Estética e Reabilitação Oral em Fortaleza.",
+        "telefone": "+5585991677709",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Clínica Odonto Saúde | Dentista em Fortaleza",
+        "telefone": "+5585981060203",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Dra Ilanna Andrade Odontologia",
+        "telefone": "+5585992692087",
+        "contatado": false,
+        "cidade": "Fortaleza",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Instituto Christian Andrade",
+        "telefone": "+554130303010",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Fama Odonto - Pinhais - Clínica Odontológica",
+        "telefone": "+5541998899489",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Clínica You Odonto",
+        "telefone": "+5541984979594",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "DentPrime",
+        "telefone": "+5541987950029",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Dra. Maria Nina Munoz - Dentista 24 Horas",
+        "telefone": "+5541991576281",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Clínica LiveDent",
+        "telefone": "+554130248584",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Clifame",
+        "telefone": "+554132231262",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.560Z"
+      },
+      {
+        "nome": "Dentista Curitiba - Ame Odontologia | Dra. Juliana de Andrade Mendes",
+        "telefone": "+5541987981235",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "ALLDENTAL - Odontologia Integrada",
+        "telefone": "+5541992328281",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "Clínica de Odontologia e Ortodontia - De Boca Aberta",
+        "telefone": "+554130140560",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "Clínica DeLara | dentista, curitiba, implante, tratamento canal, clareamento, próteses, extração, ahú, cabral, juvevê",
+        "telefone": "+554130789821",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "Beyond Odontologia",
+        "telefone": "+5541992841177",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "ConnectOdonto Curitiba | Implante Dentário | Dentista em Curitiba PR | Clínica Odontológica",
+        "telefone": "+5541998680016",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "Realclin Clinica Odontologica em Curitiba | Dentista Emergência",
+        "telefone": "+554135245944",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "Smile Lovers | Seu dentista no Batel em Curitiba",
+        "telefone": "+5541984999191",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "NEO Odontologia",
+        "telefone": "+554133431444",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "Clínica Physalis",
+        "telefone": "+554137799077",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.561Z"
+      },
+      {
+        "nome": "Dra. Camila de Loyola | DTM, Ortodontia e Alinhadores Ortodônticos",
+        "telefone": "+554130763054",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.562Z"
+      },
+      {
+        "nome": "Clinident Clínica",
+        "telefone": "+554132641984",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.562Z"
+      },
+      {
+        "nome": "Centro Odontológico Pio XII - Dentista 24h",
+        "telefone": "+554132326195",
+        "contatado": false,
+        "cidade": "Curitiba",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.562Z"
+      },
+      {
+        "nome": "Like Odonto Recife",
+        "telefone": "+5581983619648",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.562Z"
+      },
+      {
+        "nome": "Clínica Odontológica NEOPE",
+        "telefone": "+558133026390",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.563Z"
+      },
+      {
+        "nome": "LN Odontologia - Dentista em Recife | Implantes Dentários l Invisalign | Facetas | Lente de Contato Dental",
+        "telefone": "+5581999131135",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.563Z"
+      },
+      {
+        "nome": "Toque Dental",
+        "telefone": "+5581991038596",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.563Z"
+      },
+      {
+        "nome": "OdontoRec",
+        "telefone": "+558130725848",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.563Z"
+      },
+      {
+        "nome": "Dra. Juliana Andrade",
+        "telefone": "+5581987292581",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.563Z"
+      },
+      {
+        "nome": "Nacional Odonto Med: Dentista em Recife Pe",
+        "telefone": "+558134122300",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.563Z"
+      },
+      {
+        "nome": "Uni Odontologia | Implante Dentário | Lente de Contato Dental | Graças | Recife - PE",
+        "telefone": "+558137714183",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.563Z"
+      },
+      {
+        "nome": "SAUDENTAL - Clínica Odontológica",
+        "telefone": "+5581993267070",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "Unique clinica Odontológica - Clareamento | Invisalign | Facetas | Dentista Recife",
+        "telefone": "+558130717317",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "E R Clínica Odontológica",
+        "telefone": "+558132665348",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "Hospital Odontológico Central do Dente - Urgência e Emergência 24 Horas em Recife.",
+        "telefone": "+5581985769697",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "CLÍNICA MULTIDISCIPLINAR DRA ANA SAMICO",
+        "telefone": "+5581982520555",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "Dra. Eduarda Medeiros",
+        "telefone": "+5581992619265",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "Dentista Bairro das Graças I Dra. Aryadnne Vasconcelos I Smart Odonto Recife",
+        "telefone": "+5581984711701",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "Clínica Innovare",
+        "telefone": "+5581997313698",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.564Z"
+      },
+      {
+        "nome": "Dento Clínica I Implante Dentário | Lente de Contato Dental | Dentista de Emergência | Areias | Recife - PE",
+        "telefone": "+558137710776",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Exclusive Odontologia",
+        "telefone": "+5581973091311",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Prime Odonto em Recife - Clareamento dental em Recife | Aparelho dentário em Recife",
+        "telefone": "+5581986992096",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Studio Sorrir - Odontologia Recife - Lentes Dentais | Implantes | Prótese Protocolo | Invisaling",
+        "telefone": "+5581982188913",
+        "contatado": false,
+        "cidade": "Recife",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Dra Jéssica Soares | Consulta | Bruxismo | Facetas | Clareamento | Restauração | Revisão | Periodontia DENTISTA PORTO ALEGRE",
+        "telefone": "+5551984350875",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Sorridents Porto Alegre Clinica Odontológica / Dentista",
+        "telefone": "+555133405959",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Dentista Porto Alegre | Clínica Dental Center",
+        "telefone": "+555132251122",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Benquer Odontologia",
+        "telefone": "+5551999434126",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.565Z"
+      },
+      {
+        "nome": "Dentista Sorridere Porto Alegre",
+        "telefone": "+555133463277",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.566Z"
+      },
+      {
+        "nome": "Clínica Odontológica | Rede Odonto Porto Alegre",
+        "telefone": "+555123123912",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.566Z"
+      },
+      {
+        "nome": "Sublime Odonto",
+        "telefone": "+555135198426",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.566Z"
+      },
+      {
+        "nome": "Hera Odontologia Integrada",
+        "telefone": "+5551991661164",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.566Z"
+      },
+      {
+        "nome": "Migliore Odontologia | Dra. Renata Kochenborger | Ortodontia e Odontologia do Sono em Porto Alegre",
+        "telefone": "+5551999557005",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.566Z"
+      },
+      {
+        "nome": "Odonto Excellence Porto Alegre Passo D'areia",
+        "telefone": "+555132093645",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.567Z"
+      },
+      {
+        "nome": "Odontocom Clínica Odontológica | Implante Dentário , Prótese Dentária, Tratamento de Canal em Porto Alegre",
+        "telefone": "+555133771340",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.567Z"
+      },
+      {
+        "nome": "Sabre Odonto",
+        "telefone": "+5551991937322",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.567Z"
+      },
+      {
+        "nome": "Dentista Legal",
+        "telefone": "+555130136655",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Dra. Vanessa Freitas",
+        "telefone": "+5551997173229",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Pronto Socorro Dentário - Clínica Odontológica 24 Horas",
+        "telefone": "+555132256499",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Clínica Bela Vista Odontologia",
+        "telefone": "+555132126339",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Dalí Odontologia",
+        "telefone": "+555137373803",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Dra Carina Cigolini - Cirurgiã-dentista",
+        "telefone": "+5551991675187",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Dentistas e Cia",
+        "telefone": "+5551986319492",
+        "contatado": false,
+        "cidade": "Porto Alegre",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Vita Implantes - Clínica Odontológica",
+        "telefone": "+556230956660",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "CLÍNICA MARCELO DALTRO",
+        "telefone": "+5562991873755",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.568Z"
+      },
+      {
+        "nome": "Odonto Oriente",
+        "telefone": "+5562999121217",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.569Z"
+      },
+      {
+        "nome": "Implantare Odontologia especializada sorriso e face.",
+        "telefone": "+5562994781515",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.569Z"
+      },
+      {
+        "nome": "Clínica Palato Odontologia",
+        "telefone": "+556232813233",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.569Z"
+      },
+      {
+        "nome": "Larissa Ferreira Dentista",
+        "telefone": "+5562984958251",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.570Z"
+      },
+      {
+        "nome": "Smile Consultório Odontólogico",
+        "telefone": "+5562991174676",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.570Z"
+      },
+      {
+        "nome": "Seven Odontologia",
+        "telefone": "+556234135704",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.570Z"
+      },
+      {
+        "nome": "Dra. Geovana Seabra | Cirurgiã-dentista",
+        "telefone": "+5562982320476",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.570Z"
+      },
+      {
+        "nome": "Dra Amanda Lima - Dentista Goiânia | SouSmile | Ortodontia | Clareamento | Limpeza | Aparelho Invisível | Jardim Goiás",
+        "telefone": "+5562981512282",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.570Z"
+      },
+      {
+        "nome": "Impressive Odontologia",
+        "telefone": "+5562991306565",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.570Z"
+      },
+      {
+        "nome": "Odonto Class - Tratamento Odontológico, Orofacial e Estético",
+        "telefone": "+556235422514",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Dra. Amanda Valadares",
+        "telefone": "+5562985843700",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Crool Centro Odontológico",
+        "telefone": "+556239413131",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Dra. Mariana Eloisa | Facetas em Resina",
+        "telefone": "+5562992334017",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Dra. Viviany Arantes",
+        "telefone": "+5562985819002",
+        "contatado": false,
+        "cidade": "Goiânia",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Consultório Susanne Vieira",
+        "telefone": "+5591999939195",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Oralfy Belém | Implante | Invisalign | Dentista em Belém",
+        "telefone": "+5591981336575",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Clínica EquipeDente | Invisalign | Implante Dentário | Nazaré | Belém - PA",
+        "telefone": "+559131971125",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Dra. Izabele Sizo Urgência Odontológica 24 horas",
+        "telefone": "+5591983839636",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.571Z"
+      },
+      {
+        "nome": "Clínica ReinaOdonto",
+        "telefone": "+559132649388",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "dra valeria oliveira",
+        "telefone": "+5591981920321",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Tudo Odonto Belém",
+        "telefone": "+5591982622250",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Dr. Cristiano Belem Odontologia | Implantes e Ortodontia",
+        "telefone": "+5562986282797",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Dra Bianca Silva",
+        "telefone": "+5591984291569",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Pará Dentes - Matriz - Clínica Odontológica",
+        "telefone": "+5591981193140",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Integrar Odonto Belém",
+        "telefone": "+5591988471854",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Dra. Rísia",
+        "telefone": "+5591993922159",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Soul Dental Studio Odontologia",
+        "telefone": "+5591988686888",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Clinica Odontologica Kreativ",
+        "telefone": "+559131177763",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.572Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Belém Comércio",
+        "telefone": "+5591981258224",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Dra.Josiane Mercês - Consultório Odontológico - Dentista",
+        "telefone": "+5591989827409",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Dr. Paulo Nogueira",
+        "telefone": "+559132242000",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "COB - Clínica Odontológica de Belém",
+        "telefone": "+5591989849899",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Sorridi Odontologia Especializada | Dentista | Implante Dentário | Nazaré | Belém - PA",
+        "telefone": "+5591991820775",
+        "contatado": false,
+        "cidade": "Belém",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Clínica Odontológica | Rede Odonto Manaus",
+        "telefone": "+559230420612",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Dra. Leidiana Rêgo",
+        "telefone": "+5592984294691",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Sanmede Clínica Odontológica - Manaus",
+        "telefone": "+559233074579",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Dra. Roseli Menegasso I StarOdonto Manaus",
+        "telefone": "+5592981938821",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.573Z"
+      },
+      {
+        "nome": "Consultório Odontológico Odontologia Jurunas",
+        "telefone": "+5592991674434",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.574Z"
+      },
+      {
+        "nome": "Dentistas 24 Horas",
+        "telefone": "+5592991985998",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.574Z"
+      },
+      {
+        "nome": "Odonto SF - DENTISTAS",
+        "telefone": "+5592982819090",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.574Z"
+      },
+      {
+        "nome": "Manaós Odontologia",
+        "telefone": "+559221233248",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.574Z"
+      },
+      {
+        "nome": "Clinica Sorrimed",
+        "telefone": "+559236114833",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.574Z"
+      },
+      {
+        "nome": "Sorriso Prime - Dentista em Manaus",
+        "telefone": "+5592981723355",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.574Z"
+      },
+      {
+        "nome": "Consultório Odontológico em Manaus - Dra.Elcia de Lima Briglia",
+        "telefone": "+5592991241588",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.574Z"
+      },
+      {
+        "nome": "Sorridents Manaus Vieiralves: Clínica Odontológica, Odontopedriatra, Clínico Geral",
+        "telefone": "+5592982426789",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Implante Dentário | Lente de Contato Dental | Amorim Odontologia | São Geraldo | Manaus - AM",
+        "telefone": "+5592994821996",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Dra. Jercilene Silva - Clínica Odontológica",
+        "telefone": "+5592984441572",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Dentista em Manaus - Dra Marta Dias",
+        "telefone": "+5592984294317",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Clínica Refference - Odontologia Moderna",
+        "telefone": "+5592982480292",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Dentista Manaus - Dra Irla Thaís - Prótese Dentária",
+        "telefone": "+5592994909194",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Ateliê do Sorriso - Clínica Odontológica",
+        "telefone": "+5592982348444",
+        "contatado": false,
+        "cidade": "Manaus",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Oral Smile Odontologia - Dentista São Luís - Atendimento de Urgência 24H",
+        "telefone": "+5598991894984",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.575Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS - Deodoro",
+        "telefone": "+5598985406507",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.576Z"
+      },
+      {
+        "nome": "Sorriso e Cia: Dentista",
+        "telefone": "+5598985001463",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.576Z"
+      },
+      {
+        "nome": "Smart Odonto | Shopping da ilha",
+        "telefone": "+5598982467800",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.576Z"
+      },
+      {
+        "nome": "Odontoclinic - São Luis (Unidade Cidade Operária)",
+        "telefone": "+5598984646006",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.576Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Centro São Luís",
+        "telefone": "+5598970279923",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.576Z"
+      },
+      {
+        "nome": "Dra. Mellina Lima - | Aparelho Invisível | Facetas | Clareamento | Gengivoplastia | Dentista São Luís",
+        "telefone": "+5598984287424",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.577Z"
+      },
+      {
+        "nome": "Dr. Cristiano Assis- Ortodontista",
+        "telefone": "+5598992159365",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.577Z"
+      },
+      {
+        "nome": "Oral Sin Implantes São Luís Renascença",
+        "telefone": "+559820169613",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.577Z"
+      },
+      {
+        "nome": "Dental Clean – Implantes Dentários, Facetas em Resina e Lentes de Contato Dental",
+        "telefone": "+5598989209682",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.577Z"
+      },
+      {
+        "nome": "Sorridents",
+        "telefone": "+5598987370096",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.577Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Rua Grande",
+        "telefone": "+5598984268261",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.577Z"
+      },
+      {
+        "nome": "Dom Sorriso clinica",
+        "telefone": "+5598981856754",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.577Z"
+      },
+      {
+        "nome": "Clínica OdontoClín Cohatrac",
+        "telefone": "+5598981788699",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Oral Sin Implantes I Dentista em São Luís I Unidade Cohama",
+        "telefone": "+559820169600",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Ora Odonto Infantil e Adulto",
+        "telefone": "+5598981458281",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Lentes de Contato Dental São Luís MA - T&L Odontologia",
+        "telefone": "+5598987917187",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Dentista 24h | Elo Dent | Clínica Odontológica | Dentista em Goiânia GO | Implante Dentário",
+        "telefone": "+5562984469382",
+        "contatado": false,
+        "cidade": "São Luís",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Clínica Odontológica Integrar",
+        "telefone": "+558233254974",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Drª Katherine Cavalcante",
+        "telefone": "+5582988191366",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Dra. Michelle Cavalcante | Lentes de Contato Dental | Implante Dentário | Dentista em Maceió",
+        "telefone": "+5582987441650",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Dra. Rosangela Santos | Dentista em Maceió | Facetas em Resina em Maceió",
+        "telefone": "+5582974002213",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Sorridents Centro",
+        "telefone": "+558230210909",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.578Z"
+      },
+      {
+        "nome": "Renova Odontologia Integrada - Dentista Maceió 24h - Urgência e Emergência - Dentista Maceió",
+        "telefone": "+5582996059878",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "CLOE - Clínica Odontológica em Maceió",
+        "telefone": "+5582998057334",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Dra. Beatriz Nogueira - Dentista em Maceió",
+        "telefone": "+5521960218873",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Dra. Wanessa Tenório",
+        "telefone": "+5582996991212",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Dra. Cândida Karoline",
+        "telefone": "+5582993344554",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Dra. Manuela Chagas",
+        "telefone": "+5582994262727",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Oral Dent Maceió",
+        "telefone": "+5582996855653",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Uniodonto Maceió Cooperativa Odontológica.",
+        "telefone": "+558221233300",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Dr. Daniel Moreira - Dentista Maceió 24h",
+        "telefone": "+5582981729106",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.579Z"
+      },
+      {
+        "nome": "Dra.Chrys Bandeira",
+        "telefone": "+5582993034747",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Dra. Letícia Coelho | Dentista em Maceió",
+        "telefone": "+5582999005001",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Dra. Lais Cabral | Clareamento e Lentes de Contato Dental em Maceió",
+        "telefone": "+5582996005808",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Dentistas do Trabalhador - Clima Bom",
+        "telefone": "+558221408462",
+        "contatado": false,
+        "cidade": "Maceió",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Implante Dentário | Aparelho Invisível | Clinique Odontologia Avançada | Petrópolis | Natal - RN",
+        "telefone": "+558431130891",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Odontologia Integrada Natal | Implante sem corte, sem dor e resultado imediato | Dentista em Natal/RN",
+        "telefone": "+5584991458034",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Consultório Dra. Kátia Barros",
+        "telefone": "+5584998069335",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Clínica Autran Odontologia - Dentista Especializado Natal RN",
+        "telefone": "+558432112211",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.580Z"
+      },
+      {
+        "nome": "Clínica Odonto Sim Nova Natal",
+        "telefone": "+5584999443366",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "Soul Odontologia |Dentista em Natal | Clínica Dentária",
+        "telefone": "+558420308862",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "AmOdontologia - Dra.Áchyla Miriam",
+        "telefone": "+5584991924297",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "Dra. Rebeca Vilela - Ortodontia - Natal/RN",
+        "telefone": "+5584987929026",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "Clindental | Clínica Odontológica | Implante Dentário | Dentista em Natal",
+        "telefone": "+5584996922748",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "Natal Oral Center | Clínica Odontológica Integrada",
+        "telefone": "+558432078436",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "Oral Estética | Clínica Odontológica",
+        "telefone": "+5584999120148",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "Cliniodonto - Odontologia Integrada",
+        "telefone": "+5584998161902",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.581Z"
+      },
+      {
+        "nome": "Clínica Odonto Fácil Natal",
+        "telefone": "+558436628123",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "OdontoFace",
+        "telefone": "+558432116789",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "Odonto Vitta - Clínica Odontológica em Natal/RN",
+        "telefone": "+5584999480176",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "Cia Oral Clinica odontológica - Clareamento dental - Implantes Dentários - Próteses Dentárias - Lentes de Contato - Invisalign - Lentes de contato Dentista natal RN",
+        "telefone": "+558432234800",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "Sorria Natal - Centro",
+        "telefone": "+5584994543923",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "Dra. Laura Bastos - Cirurgiã Dentista | Urgência | Dentista 24h",
+        "telefone": "+5584991045880",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "Dental Plus - Odontologia Integrada",
+        "telefone": "+5584996601617",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "Padronaris Odontologia | Clínica Odontológica em Natal - RN | Estética | Reabilitação Oral",
+        "telefone": "+5584996739770",
+        "contatado": false,
+        "cidade": "Natal",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.582Z"
+      },
+      {
+        "nome": "Dra. Larissa Chaves",
+        "telefone": "+5583991930102",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.583Z"
+      },
+      {
+        "nome": "ODONTO CENTRO",
+        "telefone": "+558335669565",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.583Z"
+      },
+      {
+        "nome": "Orthocenter João Pessoa",
+        "telefone": "+558332439696",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.583Z"
+      },
+      {
+        "nome": "Consultório Odontológico 24 horas",
+        "telefone": "+5583987956908",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.583Z"
+      },
+      {
+        "nome": "Perazzo Odontologia 24 horas",
+        "telefone": "+5583996266678",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.583Z"
+      },
+      {
+        "nome": "Prof. Rafaella Bastos Leite - Dentista em João Pessoa",
+        "telefone": "+5583996103424",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.583Z"
+      },
+      {
+        "nome": "SEJA MAIS ODONTOLOGIA - IMPLANTES, PRÓTESES, FACETAS, APARELHO, ALINHADOR INVISÍVEL, DENTISTAS REFERÊNCIA EM JOÃO PESSOA",
+        "telefone": "+5583991557337",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.583Z"
+      },
+      {
+        "nome": "Implante Dentário | Clínica Dental Design | Dentista em João Pessoa | Clínica Odontológica | Tratamento de Canal",
+        "telefone": "+5583999363832",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.584Z"
+      },
+      {
+        "nome": "Hiper Dental Prime",
+        "telefone": "+5583921440055",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.584Z"
+      },
+      {
+        "nome": "Mais Odonto | Clínica Odontológica 24h",
+        "telefone": "+5583999088598",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.584Z"
+      },
+      {
+        "nome": "Lira Odontologia | Implante dental | Prótese Fixa| Dentista em João Pessoa-PB",
+        "telefone": "+558321812468",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.584Z"
+      },
+      {
+        "nome": "Neodental Centro Odontológico",
+        "telefone": "+558330311158",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.584Z"
+      },
+      {
+        "nome": "Solena Odontologia",
+        "telefone": "+5583987206244",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.584Z"
+      },
+      {
+        "nome": "Sorria João Pessoa",
+        "telefone": "+5583996258919",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.584Z"
+      },
+      {
+        "nome": "OdontoGalerie - Clínica Odontológica e de Harmonização Facial em João Pessoa",
+        "telefone": "+5583998285600",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "Dra. Karyna Menezes - Dentista em João Pessoa",
+        "telefone": "+5583986221603",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "BIOIMPLANTES | Dentista / Clínica Odontológica no Bessa, João Pessoa - PB",
+        "telefone": "+5583996558531",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "Dentallure Clínica",
+        "telefone": "+558332214329",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "Sampaio Odontologia - Implantes Dentários, Próteses, Aparelhos Invisalign, Dentista em João Pessoa",
+        "telefone": "+5583999070460",
+        "contatado": false,
+        "cidade": "João Pessoa",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "SOMA ODONTO: DRA FABIANA BANDEIRA",
+        "telefone": "+5586999729972",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "Clínica Odontológica Dr. Isaac Luís | Teresina - PI",
+        "telefone": "+5586998245845",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "Sorridents Jockey: Dentista, Clínica Odontológica, Clareamento em Teresina",
+        "telefone": "+558630853623",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "Dentista 24h . Dr. Paulo Sérgio",
+        "telefone": "+5586994785356",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "Dr. Gustavo Trindade - Endodontista",
+        "telefone": "+5586994095509",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.585Z"
+      },
+      {
+        "nome": "DENTISTA 24H TERESINA | URGÊNCIAS E ESTÉTICA | BWR ODONTOLOGIA",
+        "telefone": "+5586988819679",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Dentista 24 Horas - Dr. Tércio Câmara",
+        "telefone": "+5586994432879",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Teresina Centro",
+        "telefone": "+5586999478001",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Sorrir Odonto",
+        "telefone": "+5586994005920",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Oralfy Teresina - Implantes • Facetas • Invisalign • Próteses",
+        "telefone": "+5586981449077",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Dra Fernanda de Lima Odontologia | Ortodontia em Teresina",
+        "telefone": "+5586995093869",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Dentare Odontologia/ Dentista/ Dentista em Teresina",
+        "telefone": "+5586994941754",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Bispo Clinic | Dentista em Teresina - PI",
+        "telefone": "+5586999412655",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Helen Daniel Odontologia",
+        "telefone": "+5586981643132",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "LH - ODONTOLOGIA",
+        "telefone": "+5586988862709",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.586Z"
+      },
+      {
+        "nome": "Sorrifácil - Teresina Centro Implantes, Prótese Protocolo, Reabilitação Oral e Lentes de Contato",
+        "telefone": "+5586988458460",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Dr. Sorriso",
+        "telefone": "+5586994549305",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Dirceu Odonto Med - Excelência em Odontologia e Medicina",
+        "telefone": "+5586981206264",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Odonto Primus",
+        "telefone": "+558632225390",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Clínica Odontológica Carla Rejane",
+        "telefone": "+558632235159",
+        "contatado": false,
+        "cidade": "Teresina",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "LA Odontologia e Implantodontia - Campo Grande, Implantes Dentários, Lentes Dentais, Invisalign, Urgência Dentista",
+        "telefone": "+5567991832697",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Dra Grassiele Magalhães I Dentista em Campo Grande MS",
+        "telefone": "+5567991861012",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Odontocompany Campo Grande - Centro",
+        "telefone": "+556732226111",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Odontoclínica",
+        "telefone": "+552134021227",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Innovation Infinity Clínica Odontológica | Implantes Dentários | Dentistas em Campo Grande - MS",
+        "telefone": "+5567992454943",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.587Z"
+      },
+      {
+        "nome": "Só Sorriso",
+        "telefone": "+556732220128",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "Coredent Centro Odontológico | Implantes dentários em Campo Grande | dentista em Campo Grande",
+        "telefone": "+5567981388691",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "Studio Oral Group Lentes de Contato Dental Campo Grande",
+        "telefone": "+556733827373",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "Dentista Campo Grande MS / Clínica Odontológica Alere Dentistaria",
+        "telefone": "+5567999427984",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "CHELOTTI Odontologia Biológica e Integrativa",
+        "telefone": "+5567992227942",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "Odontoclinic - Centro",
+        "telefone": "+5567984640000",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "DentStar Clínica Odontológica - Dentista - Campo Grande - MS",
+        "telefone": "+5567991302502",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "Inove Odontologia",
+        "telefone": "+5567999977800",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "Oral Unic Implantes",
+        "telefone": "+5567996930388",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "Service Odonto Campo Grande 4",
+        "telefone": "+5521987442039",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "ORAL SIN IMPLANTES DENTÁRIOS | DENTISTA EM CAMPO GRANDE | CENTRO",
+        "telefone": "+5567996917075",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.588Z"
+      },
+      {
+        "nome": "BRV Odonto | Dentista em Campo Grande",
+        "telefone": "+556732014144",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Limette Odontologia Estética | Clínica Odontológica | Implantes Dentários | Lentes de Contato Dental | Campo Grande - MS",
+        "telefone": "+556730228303",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Dra. Letícia Fernandes - Dentista e Odontopediatra em Campo Grande",
+        "telefone": "+5567992053116",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Dr. Gerson Rezende - Dentista em Campo Grande",
+        "telefone": "+5567996763717",
+        "contatado": false,
+        "cidade": "Campo Grande",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Ateliê do Sorriso Odontologia",
+        "telefone": "+5565992573495",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Clínica Odontológica Betoni Odontologia | Implantes | Ortodontia | Próteses | Dentistas em Cuiabá",
+        "telefone": "+556536423131",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Dentista em Cuiabá MT | Myrelief | Clínica Odontológica | Implante Dentário | Faceta dentária",
+        "telefone": "+5565992222042",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Dentista em Cuiabá - Dra Mariana Lima Pereira",
+        "telefone": "+5565992909857",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Clínica Sorritá",
+        "telefone": "+5565993333106",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Open Odonto",
+        "telefone": "+5565992772031",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.589Z"
+      },
+      {
+        "nome": "Sorridents Centro Norte",
+        "telefone": "+5565999067636",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Dra. Paula Viana | Dentista | Bairro Lixeira - Cuiabá",
+        "telefone": "+5565996218598",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "ODONTO MEDICINA 🦷",
+        "telefone": "+556530282263",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "IMO Odonto - Cuiabá/Centro Sul",
+        "telefone": "+556530284099",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Dentista Cuiabá Dra Juliana",
+        "telefone": "+5565999740076",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Clínica Goya",
+        "telefone": "+556533223264",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Dra Luhara Carvalho - Dentista em Cuiabá",
+        "telefone": "+5565999220212",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Odonto Cuiabá",
+        "telefone": "+556533220082",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Implante Dentário | Enleva Odontologia Integrada | Alvorada | Cuiabá - MT",
+        "telefone": "+5565996448084",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Odontocompany Jardim Itália - Cuiabá",
+        "telefone": "+556533584901",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.590Z"
+      },
+      {
+        "nome": "Center Bucal Odontologia",
+        "telefone": "+5565998165566",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Oral Unic Cuiabá",
+        "telefone": "+5565998062381",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Odonto Exclusive",
+        "telefone": "+5565992133364",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Clínica Rena",
+        "telefone": "+556536660023",
+        "contatado": false,
+        "cidade": "Cuiabá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Cláudia Sens Clínica Odontológica",
+        "telefone": "+5548988141148",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Córrego Grande Odontologia",
+        "telefone": "+5548991530031",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Innove Odonto Floripa",
+        "telefone": "+554837712899",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Odontoclinic Florianópolis",
+        "telefone": "+554830301515",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.591Z"
+      },
+      {
+        "nome": "Dentistas Florianópolis | Invisalign em Florianópolis",
+        "telefone": "+554832232460",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Confidents Clínica Odontológica",
+        "telefone": "+554830253090",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Dra. Priscila Andrade",
+        "telefone": "+5548991302076",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Odonto Excellence Florianópolis Centro",
+        "telefone": "+554833715118",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "DENTISTA 24HS/ Clínica odontológica/ Urgência odontológica/ dentista Florianópolis/ consultório odontológico.",
+        "telefone": "+5548984865576",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Odontoquality",
+        "telefone": "+554832233900",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Sorrismed - Clínica Médica e Odontológica",
+        "telefone": "+5548996613130",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Clínica Odontológica TAG",
+        "telefone": "+5548992212219",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Halo Odontologia Florianópolis | Clínica Odontológica 24h | Córrego Grande",
+        "telefone": "+5548988663279",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Dr. Sady Bramatti- Dentista centro Florianópolis",
+        "telefone": "+5548991309695",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.592Z"
+      },
+      {
+        "nome": "Dentista Florianópolis | COEI Clinica Odontológica",
+        "telefone": "+5548996164087",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Oral Unic Implantes Florianópolis",
+        "telefone": "+554830275500",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Clínica Odontológica Odonto Vitta",
+        "telefone": "+5548992095714",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Dr. Sérgio Murilo Coelho",
+        "telefone": "+5548996422542",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Florianópolis Odontologia",
+        "telefone": "+5548999984100",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Clínica Odontológica Sorris'art",
+        "telefone": "+5548999024584",
+        "contatado": false,
+        "cidade": "Florianópolis",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Clínica Sorridents Aracaju: Dentista, Invisalign, Implantes Dentários e Aparelho Dental",
+        "telefone": "+5579996714910",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "PróOdonto Aracaju",
+        "telefone": "+5579996483398",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Odonto Excellence Aracaju - Dentista",
+        "telefone": "+5579998804800",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.593Z"
+      },
+      {
+        "nome": "Dra Anna Katharina - Dentista Extração - Siso - 24Horas",
+        "telefone": "+5579999398256",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Dra. Mairaira Leão (Periodontista e Implantodontista).",
+        "telefone": "+5579999674364",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Odonto Centro - Calçadão Sao Cristovao",
+        "telefone": "+557930116007",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Dra. Joicy Erlis - Dentista 24h",
+        "telefone": "+5579996856721",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Dr. Pedro Sátiro Dentista",
+        "telefone": "+5579999753623",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Duo Odontologia Consultório Odontológico em Aracaju",
+        "telefone": "+5579991018574",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Dra. Rosa Alina Freitas - Referência Odontologia Estética",
+        "telefone": "+5579981190757",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Dr. João Paulo Sátiro",
+        "telefone": "+5579999398959",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Odonto House - Clínica Odontológica em Aracaju | Implantes, Ortodontia, Estética e muito mais.",
+        "telefone": "+5579999180391",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.594Z"
+      },
+      {
+        "nome": "Clínica Dandelion / Dentista Especializado",
+        "telefone": "+5579988699966",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "Dra. Nayane Moreno Dentista - Consultório Odontológico em Aracaju",
+        "telefone": "+5579999452813",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "Prime Odontomed",
+        "telefone": "+557930113911",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "Ferraz Odontologia | Dentista em Aracaju",
+        "telefone": "+5579998992289",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "Sorriso Aju | Dentista Aracaju, Prótese, Aparelho Dental, e Mais Procedimentos",
+        "telefone": "+5579991431123",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "Dentista Aracaju | Clínica Odontológica MEDICMAIS ARACAJU",
+        "telefone": "+557930129022",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "Implantes Dentários | Dentista | Ortoriso Aracaju | Aracaju - SE",
+        "telefone": "+5579981286762",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "02 - Odonto10x | Clínica Odontológica e Estética | Dentista Desde 1999 | Arauá - Aracaju",
+        "telefone": "+557932220010",
+        "contatado": false,
+        "cidade": "Aracaju",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.595Z"
+      },
+      {
+        "nome": "Clínica Dra Michelly Gonzaga | Especialista em Tratamento de Canal, Restaurações, Facetas e Clareamento | Palmas - TO",
+        "telefone": "+5563991296688",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Clínica Hardencor Odontologia",
+        "telefone": "+5563992673883",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "DenteClin - Clínicas Odontológicas - JK | Palmas",
+        "telefone": "+556332251177",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Singular Odontologia",
+        "telefone": "+5563992550473",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Palmas Bucal - Consultório Odontológico",
+        "telefone": "+556332133091",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Centro Integrado de Odontologia",
+        "telefone": "+5563984450232",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Vivati Odontologia",
+        "telefone": "+5563984412470",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Te Ver Sorrir - Clínica Odontológica",
+        "telefone": "+5563992500297",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Clínica Goen Odontologia | Implante Dentário e Dentista em Palmas",
+        "telefone": "+5563984067442",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Dente Mais",
+        "telefone": "+5563984614483",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.596Z"
+      },
+      {
+        "nome": "Clínica Popular Sorriso - Palmas",
+        "telefone": "+5563992760394",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.597Z"
+      },
+      {
+        "nome": "Clínica Dra. Monnaliza Cabral",
+        "telefone": "+5563992586520",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.597Z"
+      },
+      {
+        "nome": "Studio Oral Sacardo",
+        "telefone": "+556320180374",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "Consultório Odontológico Dr. Matherson Noleto",
+        "telefone": "+5563992412673",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "Oral Office Odontologia Especializada - Clínica Odontológica Palmas",
+        "telefone": "+5563981003734",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "Reabilite Odontologia Palmas",
+        "telefone": "+5563991250808",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "Lucas Cajado - Odontologia Integrada",
+        "telefone": "+556333220190",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "Masterclin Odontologia Premium/ Dentistas em Palmas",
+        "telefone": "+5563984324826",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "OdontoCompany Palmas",
+        "telefone": "+556332162030",
+        "contatado": false,
+        "cidade": "Palmas",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "Odontoclinic - Boa Vista",
+        "telefone": "+5595991160482",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.598Z"
+      },
+      {
+        "nome": "Dra. Ana Canal e Dr Anderson Canal I Casal de Dentistas e Especialistas em Canal",
+        "telefone": "+5595991228350",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.599Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Boa Vista Centro 1",
+        "telefone": "+5595984235353",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.599Z"
+      },
+      {
+        "nome": "Clínica Odonto Center Tancredo Neves: Dentista, Aparelho, Prótese, Implante",
+        "telefone": "+5595991643236",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.600Z"
+      },
+      {
+        "nome": "Clínica Odonto Center Centro: Dentista, Aparelho, Prótese, Implante",
+        "telefone": "+5595991393714",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.600Z"
+      },
+      {
+        "nome": "Dra. Beatriz Freire | Dentista em Boa Vista - RR",
+        "telefone": "+5595991585652",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.600Z"
+      },
+      {
+        "nome": "Dr. Hamon Lustosa",
+        "telefone": "+5595981062099",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.600Z"
+      },
+      {
+        "nome": "Clínica Odontológica Sorria Boa Vista",
+        "telefone": "+5595991128649",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.600Z"
+      },
+      {
+        "nome": "Dra. Iasmine Capeleto",
+        "telefone": "+5595984187336",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.600Z"
+      },
+      {
+        "nome": "Dr. Augusto Machado - Próteses, Implantes Dentários e Alinhadores Invisíveis Sou Smile. Dentista Boa Vista Roraima",
+        "telefone": "+5595991748118",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "Dra. Layla Rodrigues - Dentista em Boa Vista - Implantes dentários e Ortodontia",
+        "telefone": "+5595981252415",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "Dr Paulo Tamloc - Referência em Cirurgia da Face em Boa Vista",
+        "telefone": "+5595991353003",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "Dentista em Boa Vista - Ortodontia e Odontopediatria | Dra Ana Luiza",
+        "telefone": "+5595984070284",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "CLÍNICA SORRIMAIS",
+        "telefone": "+5595991382093",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "ORAL SIN IMPLANTES DENTÁRIOS | DENTISTA EM BOA VISTA | CENTRO",
+        "telefone": "+559536284695",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "Clínica Odontológica Caetano",
+        "telefone": "+5562984565620",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "OdontoCompany",
+        "telefone": "+5595991583951",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "Sorriso Center",
+        "telefone": "+5595991384145",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.601Z"
+      },
+      {
+        "nome": "Clínica odontológica DNTBRAS - CAXAMBU",
+        "telefone": "+5595984178888",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Dr. Anderson Costa",
+        "telefone": "+5591999195996",
+        "contatado": false,
+        "cidade": "Boa Vista",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Ortho Life Consultório Odontológico",
+        "telefone": "+5568992080742",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Cliniodonto - Implantes Dentais Rio Branco - Dra. Carla Santana",
+        "telefone": "+5568984034740",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Dra Yana Paiva - Clínica Odontológica em Rio Branco",
+        "telefone": "+5568999723535",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Oral Unic Rio Branco",
+        "telefone": "+556821022009",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Sorriso Odonto",
+        "telefone": "+5568992921161",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Top Odonto Clínica Odontológica em Rio Branco",
+        "telefone": "+556832233177",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.602Z"
+      },
+      {
+        "nome": "Odontologia de Sucesso - Dr. Maycon Perdome | Clínica Odontológica em Rio Branco",
+        "telefone": "+5568999837523",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Dentista Beatriz Côrtes Barbosa",
+        "telefone": "+5568999848299",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Studio RICCI Odontologia",
+        "telefone": "+556833015091",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Clínica OdontoRio - Implantes, Aparelhos, Lentes de Contato e Clareamentos",
+        "telefone": "+5568999876708",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Centro Odontológico Mesquita",
+        "telefone": "+5562991743846",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "ClineOffice - Clínica Odontológica em Rio Branco, Acre",
+        "telefone": "+5568999097500",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Dentista em Rio Branco 24 horas",
+        "telefone": "+5568999213784",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Mouzari Odonto Clinic & Mouzari Kids Odontopediatria",
+        "telefone": "+5568999997493",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Clínica Odonto Líder | Dentista | Implante | Lentes em Resina Rio Branco AC",
+        "telefone": "+5568999025544",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.603Z"
+      },
+      {
+        "nome": "Clínica Dentária Central",
+        "telefone": "+556832232924",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.604Z"
+      },
+      {
+        "nome": "Dra. Francielen França - Odontologia",
+        "telefone": "+5568992226102",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.604Z"
+      },
+      {
+        "nome": "Caraciolo Odonto",
+        "telefone": "+556832237348",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.604Z"
+      },
+      {
+        "nome": "Dra Monique Carvalho | Ronco, Apnéia, Enxaqueca e Bruxismo em Rio Branco",
+        "telefone": "+5568992522505",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.604Z"
+      },
+      {
+        "nome": "Sorriso Saúde",
+        "telefone": "+5568999882680",
+        "contatado": false,
+        "cidade": "Rio Branco",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.604Z"
+      },
+      {
+        "nome": "Vamos Sorrir - Odontologia, Dentista em Macapá",
+        "telefone": "+559632251332",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "BR Clin Macapá",
+        "telefone": "+5596981463313",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Macapá Buritizal",
+        "telefone": "+5596984018105",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Clínica Mundo Ortho - Excelência em Odontologia",
+        "telefone": "+5596991415301",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Macapá Centro",
+        "telefone": "+5596984339126",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Odonto Advance - Dr Decio Bisognin e Equipe",
+        "telefone": "+5596984047431",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Dr. Amigo Praça - Macapá/AP",
+        "telefone": "+5596991615696",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Clínica Odontológica Centerclin",
+        "telefone": "+5596999050219",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Clínica Odonto Quality Macapá- Zona Norte",
+        "telefone": "+5596981381528",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.605Z"
+      },
+      {
+        "nome": "Dr Diego Dutra - NDClinic Macapá - Odonto e Harmonização Facial",
+        "telefone": "+5596981193330",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Consultório Odontológico Dra.Josilene Silva-Dentista em Macapá",
+        "telefone": "+5596988061839",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Consultório Dra. Ana Karolina Lima",
+        "telefone": "+5596991421162",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Coife Odonto Macapá",
+        "telefone": "+5596984294645",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Dr. Leandro Lobato - Dentista em Macapá",
+        "telefone": "+5596981069638",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Odonto Plus",
+        "telefone": "+5596991120773",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "OdontoImperium Odontologia Integrada",
+        "telefone": "+5596981227420",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Consultório Dra. Wilma Souza",
+        "telefone": "+5596991473855",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Happy - odontopediatria encantada",
+        "telefone": "+5596984146259",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.606Z"
+      },
+      {
+        "nome": "Clinica Perfetha Odontologia Especializada",
+        "telefone": "+5596991148644",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "Consultório Odontológico Dra. Keila Junges - Dentista",
+        "telefone": "+5596991354618",
+        "contatado": false,
+        "cidade": "Macapá",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "Clínica Odontológica DNTBRAS Porto Velho",
+        "telefone": "+5569993844427",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "DENTISTA 24 HORAS Porto-Velho - Dra. Sabrina Barros",
+        "telefone": "+5569993835537",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "Odontoart Clinica Odontologica",
+        "telefone": "+5569984948543",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "COS Rede de Clínicas - Unidade Sul",
+        "telefone": "+5569992453869",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "Odonto Smart – Clínica Odontológica em Porto Velho",
+        "telefone": "+5569992582350",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "Samya Cabral Odontologia Ortodontista Invisalign",
+        "telefone": "+5569999282511",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.607Z"
+      },
+      {
+        "nome": "Odonto Estética e Prótese - Próteses, Implantes e Facetas em Porto Velho",
+        "telefone": "+5569992302086",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.608Z"
+      },
+      {
+        "nome": "Porto Clínica Consultório Odontológico",
+        "telefone": "+5569992225224",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.608Z"
+      },
+      {
+        "nome": "Mendes Odontologia - Dentista em Porto Velho",
+        "telefone": "+5569992548464",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.608Z"
+      },
+      {
+        "nome": "AmazonDent - Clínica Odontológica (DENTISTA)",
+        "telefone": "+556932221796",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.608Z"
+      },
+      {
+        "nome": "Consultório Odontológico Dra. Ester Lopes | COEL",
+        "telefone": "+5569993104460",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.608Z"
+      },
+      {
+        "nome": "Implante e Prótese Dentária- Dra Brenda Alencar Leismann - Dentista em Porto Velho/RO",
+        "telefone": "+5569992862494",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.608Z"
+      },
+      {
+        "nome": "Dentista em Porto Velho - Implantes- Lentes de Contato Dental - Bessa Odontologia e Estética",
+        "telefone": "+556932241885",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.609Z"
+      },
+      {
+        "nome": "Vamos Sorrir - Porto Velho",
+        "telefone": "+5569992596194",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.609Z"
+      },
+      {
+        "nome": "Dentista em Porto Velho Dra Mariana Zanferrari",
+        "telefone": "+5569993138631",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.609Z"
+      },
+      {
+        "nome": "Dra. Ana Giselle",
+        "telefone": "+5569992723737",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.609Z"
+      },
+      {
+        "nome": "Odontonew",
+        "telefone": "+5569984220001",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.609Z"
+      },
+      {
+        "nome": "Odonto Vita",
+        "telefone": "+556932220664",
+        "contatado": false,
+        "cidade": "Porto Velho",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.609Z"
+      },
+      {
+        "nome": "Clínica Edmar Alves - Odontologia e Saúde",
+        "telefone": "+552732512184",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Dra. Ingra Nicchio - Periodontista",
+        "telefone": "+5527999970702",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Clínica Odontológica | Rede Odonto Vitória",
+        "telefone": "+552730294331",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Vamos Sorrir - Vitória",
+        "telefone": "+5527999621992",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "WI ODONTOLOGIA ESPECIALIZADA",
+        "telefone": "+5527998756079",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Clínica Odontológica - CESOL",
+        "telefone": "+5527999171616",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Clinocap Clinica Odontologica Capixaba",
+        "telefone": "+5527988197995",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Clínica Dentaria Vitória",
+        "telefone": "+556232257876",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Clínica Odontológica SDC - Vitória",
+        "telefone": "+552732220833",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.610Z"
+      },
+      {
+        "nome": "Central Odontologia",
+        "telefone": "+5527997888565",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.611Z"
+      },
+      {
+        "nome": "Dra. Vitória Brilhante Odontopediatra",
+        "telefone": "+5562981920249",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.611Z"
+      },
+      {
+        "nome": "Odontologia Vitória",
+        "telefone": "+5562981871020",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.611Z"
+      },
+      {
+        "nome": "Clínica do Dente",
+        "telefone": "+5527999063232",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.611Z"
+      },
+      {
+        "nome": "Odontic Vitória",
+        "telefone": "+5527995258852",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.612Z"
+      },
+      {
+        "nome": "Clínica Dra. Vitória Maria",
+        "telefone": "+5562984998179",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.612Z"
+      },
+      {
+        "nome": "Instituto Padilha em Vitória - ES",
+        "telefone": "+552730252005",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.612Z"
+      },
+      {
+        "nome": "Clínica Odontológica Primavera",
+        "telefone": "+552732227148",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.612Z"
+      },
+      {
+        "nome": "Renove Odontologia e Estética",
+        "telefone": "+552732372628",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.612Z"
+      },
+      {
+        "nome": "Implodonto Vitória",
+        "telefone": "+5527988857420",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.612Z"
+      },
+      {
+        "nome": "Odontologia Vitoria",
+        "telefone": "+556235497759",
+        "contatado": false,
+        "cidade": "Vitória",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T20:04:55.612Z"
+      },
+      {
+        "nome": "Domo Odontologia Clínica e Atendimento 24 horas",
+        "telefone": "+5511996390182",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Dentista 24h - Centro SP - Urgências - Dr. Bruno Frison - CROSP 128.512",
+        "telefone": "+5511996291093",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Portal do Sorriso",
+        "telefone": "+5511957168474",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Clínica Odontológica Nipodonto - Dentista em Pinheiros",
+        "telefone": "+551130615567",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Sorridents Augusta",
+        "telefone": "+551121297624",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Prado Odontologia e Medicina",
+        "telefone": "+551143237876",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Clínica Lanfredi | Invisalign | Odontopeditria | Endodontia com Microscópio | Odontologia Paraíso | Urgências odontológicas",
+        "telefone": "+5511995884404",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Sorridents Anhangabaú: Clínica Odontológica, Dentista, Implante Dentário, São Paulo SP",
+        "telefone": "+551132140971",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Leviss Odontologia",
+        "telefone": "+5511973927700",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Dra Camila Pimenta | Dentista em São Paulo",
+        "telefone": "+5511976259917",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Diniz Odontologia",
+        "telefone": "+556236097000",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Dentistas Av Paulista SP | Amil Hapvida Itaú Metlife Santander Sulamérica Unimed",
+        "telefone": "+551146378838",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Dentista 24horas",
+        "telefone": "+551134492324",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "ImplArt Odontologia Implante Dentario",
+        "telefone": "+551132624750",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Clínica OdontoFares",
+        "telefone": "+551130624473",
+        "contatado": false,
+        "cidade": "São Paulo",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Barra Clínica Odontológica Urgência",
+        "telefone": "+5521991229709",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Emergência Dentista 24 horas RJ - Equipe Kruger",
+        "telefone": "+5521982074192",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Office Dente Centro Odontológico - UNIDADE CENTRO",
+        "telefone": "+5521970020303",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Dra Nathália Ruy",
+        "telefone": "+5521995598918",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Odontologia Flamengo",
+        "telefone": "+552122850849",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.057Z"
+      },
+      {
+        "nome": "Clínica Odontológica Dra. Erica Lopes | Tijuca – RJ",
+        "telefone": "+5521965868967",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Dentista Emergência Zona Sul RJ",
+        "telefone": "+5521997209594",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Oral Unic Copacabana | Implantes Dentários | Clínica Odontológica | Dentistas Copacabana | Rio de Janeiro - RJ",
+        "telefone": "+552137387971",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Walmira - Dentistas",
+        "telefone": "+552138759909",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "MR Odontologia",
+        "telefone": "+5521965721313",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "SempreSorrir Odontologia | Implante Dentário | Aparelho Dentário | Vila Isabel | Rio de Janeiro - RJ",
+        "telefone": "+5521973164275",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Ferdinand Clínica Odontologica - Dentistas na Tijuca - RJ",
+        "telefone": "+5521972919704",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Dentistas em Copacabana - Clinica Odontológica Dental Fit Copacabana",
+        "telefone": "+5521970898895",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "CENTRO AVANÇADO DE ODONTOLOGIA E ESTÉTICA CORCOVADO",
+        "telefone": "+5521999102559",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Clínica Vittal Odontologia",
+        "telefone": "+552125677236",
+        "contatado": false,
+        "cidade": "Rio de Janeiro",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Dr Gustavo Belligoli",
+        "telefone": "+553132012998",
+        "contatado": false,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Instituto de Odontologia 24h",
+        "telefone": "+553130442626",
+        "contatado": false,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Centro Avançado de Odontologia",
+        "telefone": "+553132014270",
+        "contatado": false,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Dra. Larissa Valadares",
+        "telefone": "+5531991147975",
+        "contatado": false,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Dr. Marcos de Oliveira | Dentista Belo Horizonte | Implante | Alinhador Invisível | Invisalign | Botox | Sedação",
+        "telefone": "+5531992245501",
+        "contatado": false,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Smile - Odontologia Completa",
+        "telefone": "+553132225696",
+        "contatado": false,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      },
+      {
+        "nome": "Nassif Campos Odontologia | Dentista em Belo Horizonte",
+        "telefone": "+5531989793955",
+        "contatado": false,
+        "cidade": "Belo Horizonte",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-13T21:16:12.058Z"
+      }
+    ],
+    "nova-lista-18-31": [
+      {
+        "nome": "Action CSA",
+        "telefone": "+5562999785058",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Escritórios corporativos",
+        "dataExtracao": "2026-04-14T21:50:07.552Z",
+        "dataContato": "2026-04-15T14:41:44.599Z"
+      },
+      {
+        "nome": "Doma Soluções Empresariais Integradas",
+        "telefone": "+5562983403035",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Escritórios corporativos",
+        "dataExtracao": "2026-04-14T21:50:07.552Z",
+        "dataContato": "2026-04-15T14:42:59.892Z"
+      },
+      {
+        "nome": "Grupo Akazi | Arquitetura Comercial e Corporativa",
+        "telefone": "+5562996764343",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Escritórios corporativos",
+        "dataExtracao": "2026-04-14T21:50:07.552Z",
+        "dataContato": "2026-04-15T14:44:16.185Z"
+      },
+      {
+        "nome": "Christian Angley Salão",
+        "telefone": "+5562991330868",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Salões de beleza e barbearias",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:24:57.506Z"
+      },
+      {
+        "nome": "Montanari Barbearia",
+        "telefone": "+5562982524726",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Salões de beleza e barbearias",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:25:26.953Z"
+      },
+      {
+        "nome": "Barbearia do Parazinho",
+        "telefone": "+5562991346115",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Salões de beleza e barbearias",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:26:05.126Z"
+      },
+      {
+        "nome": "Lucas lima barbearia - prótese capilar - visagista",
+        "telefone": "+5562981197216",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Salões de beleza e barbearias",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:26:39.278Z"
+      },
+      {
+        "nome": "Berçário e Escola Casa Aconchego",
+        "telefone": "+5562983244229",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Escolas e creches",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:27:45.659Z"
+      },
+      {
+        "nome": "Escola Infantil Recreio - Tia Dinha",
+        "telefone": "+5562981961271",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Escolas e creches",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:28:48.116Z"
+      },
+      {
+        "nome": "Educação Infantil Jardim Goiás",
+        "telefone": "+5562993415584",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Escolas e creches",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:31:44.381Z"
+      },
+      {
+        "nome": "Clínica Saúde Sempre Popular - consultas e exames",
+        "telefone": "+556230881600",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:33:05.418Z"
+      },
+      {
+        "nome": "Clínica Vittá Unidade Centro",
+        "telefone": "+556239960505",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:33:43.832Z"
+      },
+      {
+        "nome": "PegadAnimal Médica Veterinária e Pet Shop | Atendimento domiciliar",
+        "telefone": "+5562991234053",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas veterinárias e pet shops",
+        "dataExtracao": "2026-04-14T23:43:26.104Z",
+        "dataContato": "2026-04-15T14:34:28.404Z"
+      },
+      {
+        "nome": "Clínica Médica São José",
+        "telefone": "+556239329320",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-15T02:19:19.757Z",
+        "dataContato": "2026-04-15T14:19:59.693Z"
+      },
+      {
+        "nome": "Dr&Cia",
+        "telefone": "+556236266546",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-15T02:19:19.758Z",
+        "dataContato": "2026-04-15T14:17:11.681Z"
+      },
+      {
+        "nome": "Lima Lanches",
+        "telefone": "+5562994356875",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes e lanchonetes",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T13:58:56.274Z"
+      },
+      {
+        "nome": "Tiãozinho Lanches",
+        "telefone": "+5562994145859",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes e lanchonetes",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T13:59:32.502Z"
+      },
+      {
+        "nome": "Cowboy Restaurante e Lanchonete",
+        "telefone": "+5562992155263",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes e lanchonetes",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:00:12.874Z"
+      },
+      {
+        "nome": "Lanchonete A Goiana",
+        "telefone": "+556232250843",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes e lanchonetes",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:01:38.263Z"
+      },
+      {
+        "nome": "Hub Cerrado | Coworking",
+        "telefone": "+5562994729781",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Escritórios corporativos",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:05:56.693Z"
+      },
+      {
+        "nome": "Clínica Sua Consulta",
+        "telefone": "+5562991580217",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:07:13.368Z"
+      },
+      {
+        "nome": "Dr. pra você - Centro Médico",
+        "telefone": "+556239280123",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:07:47.377Z"
+      },
+      {
+        "nome": "Verti Clínica",
+        "telefone": "+556241014466",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:08:51.537Z"
+      },
+      {
+        "nome": "Clínica Afeto",
+        "telefone": "+556232154454",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas e consultórios",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:10:08.502Z"
+      },
+      {
+        "nome": "Vet Brasil",
+        "telefone": "+5562982470928",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas veterinárias e pet shops",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:12:08.586Z"
+      },
+      {
+        "nome": "PetShelby - Hotel Pet, Clinica Veterinária, PetShop - Unidade Setor Pedro",
+        "telefone": "+5562998005387",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clínicas veterinárias e pet shops",
+        "dataExtracao": "2026-04-15T13:55:59.584Z",
+        "dataContato": "2026-04-15T14:12:58.944Z"
+      }
+    ],
+    "clinicas-goiania": [
+      {
+        "nome": "Odonto Centeres - Conjunto Riviera",
+        "telefone": "+5562984359222",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-15T15:28:58.061Z",
+        "dataContato": "2026-04-15T16:34:54.178Z"
+      },
+      {
+        "nome": "Novo Sorriso - Odontologia",
+        "telefone": "+5562991530320",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-15T15:28:58.061Z",
+        "dataContato": "2026-04-15T16:35:27.110Z"
+      },
+      {
+        "nome": "Crescer e Sorrir Odontologia infantil e familiar",
+        "telefone": "+5562983091954",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-15T15:46:02.079Z",
+        "dataContato": "2026-04-15T16:33:54.456Z"
+      },
+      {
+        "nome": "Nova Odonto Centro Odontológico",
+        "telefone": "+556238775077",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "dentistas",
+        "dataExtracao": "2026-04-15T15:48:28.319Z",
+        "dataContato": "2026-04-15T16:33:12.982Z"
+      },
+      {
+        "nome": "Hospital Goiânia Leste",
+        "telefone": "+556230931888",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:16:11.114Z"
+      },
+      {
+        "nome": "Hospital Vila Nova",
+        "telefone": "+556239464711",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:17:53.065Z"
+      },
+      {
+        "nome": "Hospital Santa Catarina",
+        "telefone": "+556230896100",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:19:49.862Z"
+      },
+      {
+        "nome": "Centro Clínico - Hospital do Coração de Goiás",
+        "telefone": "+556234144000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:22:03.453Z"
+      },
+      {
+        "nome": "Hospital Estadual Alberto Rassi HGG",
+        "telefone": "+556232099800",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:22:41.227Z"
+      },
+      {
+        "nome": "Einstein Hospital Israelita – Complexo Goiânia",
+        "telefone": "+556238785100",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:23:29.654Z"
+      },
+      {
+        "nome": "Hospital do Coração Anis Rassi",
+        "telefone": "+556232279000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:25:23.812Z"
+      },
+      {
+        "nome": "Hospital do Rim",
+        "telefone": "+556230963200",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:28:37.616Z"
+      },
+      {
+        "nome": "Hospital Unique",
+        "telefone": "+556230899000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:29:29.022Z"
+      },
+      {
+        "nome": "HOG - Hospital Ortopédico de Goiânia",
+        "telefone": "+556232545600",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:30:03.052Z"
+      },
+      {
+        "nome": "IOG - Instituto Ortopédico de Goiânia",
+        "telefone": "+556232525000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:30:38.966Z"
+      },
+      {
+        "nome": "Hospital Memorial Batista do Centenário",
+        "telefone": "+5562994937649",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:31:05.968Z"
+      },
+      {
+        "nome": "Instituto de Angiologia de Goiânia",
+        "telefone": "+556232395000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hospitais",
+        "dataExtracao": "2026-04-15T15:58:39.444Z",
+        "dataContato": "2026-04-15T16:32:08.028Z"
+      },
+      {
+        "nome": "Winner Sports Life Residence",
+        "telefone": "+556239324810",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Edificios",
+        "dataExtracao": "2026-04-15T16:44:27.305Z",
+        "dataContato": "2026-04-15T16:49:03.805Z"
+      },
+      {
+        "nome": "Edifício Dallas",
+        "telefone": "+5562998185464",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Edificios",
+        "dataExtracao": "2026-04-15T16:44:27.305Z",
+        "dataContato": "2026-04-15T16:49:46.136Z"
+      },
+      {
+        "nome": "Botanic Consciente Life",
+        "telefone": "+556230865000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Edificios",
+        "dataExtracao": "2026-04-15T17:21:44.802Z",
+        "dataContato": "2026-04-15T17:22:07.771Z"
+      },
+      {
+        "nome": "Kingdom Park Residence",
+        "telefone": "+5562991544481",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Edificios",
+        "dataExtracao": "2026-04-15T17:21:44.802Z",
+        "dataContato": "2026-04-15T17:22:53.974Z"
+      },
+      {
+        "nome": "Hotel Black Inn Flamboyant",
+        "telefone": "+556236368643",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:31:48.215Z",
+        "dataContato": "2026-04-15T17:33:00.005Z"
+      },
+      {
+        "nome": "Studio Life Personal Fitness",
+        "telefone": "+5562982103916",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:31:48.215Z",
+        "dataContato": "2026-04-15T17:33:54.152Z"
+      },
+      {
+        "nome": "Academia Renova Fitness",
+        "telefone": "+556230897633",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:31:48.215Z",
+        "dataContato": "2026-04-15T17:34:39.812Z"
+      },
+      {
+        "nome": "Best Fight & Fitness",
+        "telefone": "+5562993708705",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:31:48.215Z",
+        "dataContato": "2026-04-15T17:35:30.052Z"
+      },
+      {
+        "nome": "Equilibrio Family Academia | Goiânia",
+        "telefone": "+5562992870592",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:31:48.215Z",
+        "dataContato": "2026-04-15T17:36:01.251Z"
+      },
+      {
+        "nome": "Golden Tulip Goiânia Address",
+        "telefone": "+556232571000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:50:19.589Z"
+      },
+      {
+        "nome": "Castro's Park Hotel",
+        "telefone": "+556230962000",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:51:43.865Z"
+      },
+      {
+        "nome": "Carne de Sol 1008 - Unidade 01",
+        "telefone": "+556232416778",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:52:31.374Z"
+      },
+      {
+        "nome": "Balkan Rooftop",
+        "telefone": "+556239560202",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:53:02.604Z"
+      },
+      {
+        "nome": "Pobre Juan Goiânia",
+        "telefone": "+5562981378955",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:53:33.422Z"
+      },
+      {
+        "nome": "Kabanas Restaurante e Bar",
+        "telefone": "+556239223393",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:54:07.619Z"
+      },
+      {
+        "nome": "Casune Goiânia | Restaurante & Bistro",
+        "telefone": "+5562993722382",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:55:14.635Z"
+      },
+      {
+        "nome": "Viela Gastronômica",
+        "telefone": "+556235413263",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:56:24.801Z"
+      },
+      {
+        "nome": "Academia Holiday Gyn - Musculação,Funcionalcross, Ritmos, Muay Thay, Spinnig e Pilates",
+        "telefone": "+5562994180227",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:57:49.800Z"
+      },
+      {
+        "nome": "Evoque Academia Jardim Goiás",
+        "telefone": "+5511916373423",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:47:02.700Z",
+        "dataContato": "2026-04-15T17:58:26.345Z"
+      },
+      {
+        "nome": "Íz por Ian Baiocchi",
+        "telefone": "+5562981310673",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:00:16.721Z"
+      },
+      {
+        "nome": "Rafa's Food Park (Goiânia)",
+        "telefone": "+5562992881258",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:01:32.678Z"
+      },
+      {
+        "nome": "Kanpai Blue",
+        "telefone": "+556234329666",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:02:21.045Z"
+      },
+      {
+        "nome": "Restaurante Ranchos Gastronomia e Armazém",
+        "telefone": "+556232512774",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:03:03.603Z"
+      },
+      {
+        "nome": "Grano Cucina",
+        "telefone": "+556220205141",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:05:07.802Z"
+      },
+      {
+        "nome": "Nord 23",
+        "telefone": "+5562995689915",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:07:11.007Z"
+      },
+      {
+        "nome": "S.A Yakiniku Goiânia",
+        "telefone": "+5562999451099",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Restaurantes",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:07:41.798Z"
+      },
+      {
+        "nome": "SAFARI CROSSFIT JD",
+        "telefone": "+556232819474",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:08:29.976Z"
+      },
+      {
+        "nome": "Evolute Studio Fitness",
+        "telefone": "+5562982288588",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:09:10.649Z"
+      },
+      {
+        "nome": "Comfort Hotel Goiânia",
+        "telefone": "+556236048484",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:10:32.574Z"
+      },
+      {
+        "nome": "SJ Premium Hotels by Atlantica",
+        "telefone": "+556232355600",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:11:40.537Z"
+      },
+      {
+        "nome": "Holiday Inn Goiania by IHG",
+        "telefone": "+556234149600",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:12:52.483Z"
+      },
+      {
+        "nome": "Hotel Goiânia",
+        "telefone": "+556234322212",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:14:16.526Z"
+      },
+      {
+        "nome": "Ibis",
+        "telefone": "+556227656050",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:15:14.974Z"
+      },
+      {
+        "nome": "Oitis Hotel",
+        "telefone": "+5562991103911",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:15:57.709Z"
+      },
+      {
+        "nome": "Mega Moda Hotel",
+        "telefone": "+556232676500",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:16:44.993Z"
+      },
+      {
+        "nome": "Hotel Jerusalém",
+        "telefone": "+5562982265358",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Hoteis",
+        "dataExtracao": "2026-04-15T17:49:51.207Z",
+        "dataContato": "2026-04-15T18:17:34.422Z"
+      },
+      {
+        "nome": "Flexy - Pilates e Fisioterapia",
+        "telefone": "+5562998833888",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:32:19.537Z",
+        "dataContato": "2026-04-15T18:53:53.553Z"
+      },
+      {
+        "nome": "Dogos Centro de Treinamento",
+        "telefone": "+5562995550934",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:54:48.295Z"
+      },
+      {
+        "nome": "O2 Fitness Goiânia",
+        "telefone": "+5562992696672",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:55:16.512Z"
+      },
+      {
+        "nome": "Rall Academias",
+        "telefone": "+5562999031630",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:56:01.939Z"
+      },
+      {
+        "nome": "SkyFit Vila Nova",
+        "telefone": "+5562995082288",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:56:38.430Z"
+      },
+      {
+        "nome": "Burst Academia",
+        "telefone": "+5562998032713",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:57:31.278Z"
+      },
+      {
+        "nome": "W2 Academy",
+        "telefone": "+5562996215819",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:58:08.630Z"
+      },
+      {
+        "nome": "Punk Crossfit Jardim Goiás",
+        "telefone": "+5562983128180",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:58:31.773Z"
+      },
+      {
+        "nome": "Academia Viana Fitness",
+        "telefone": "+556232816448",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:59:07.079Z"
+      },
+      {
+        "nome": "Academia Meta",
+        "telefone": "+5562981439415",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:59:28.044Z"
+      },
+      {
+        "nome": "Academia Family Fitness",
+        "telefone": "+5562982190674",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T18:59:49.691Z"
+      },
+      {
+        "nome": "Academia Clube Fitness - Clube de Engenharia",
+        "telefone": "+5562981543139",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:00:40.222Z"
+      },
+      {
+        "nome": "Academia Panobianco Universitário | Musculação Pilates Muay Thai",
+        "telefone": "+5562996234224",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:01:37.562Z"
+      },
+      {
+        "nome": "Borny Academia",
+        "telefone": "+5562996287644",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:03:12.901Z"
+      },
+      {
+        "nome": "H+ Academia - Centro",
+        "telefone": "+5562981444879",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:04:14.086Z"
+      },
+      {
+        "nome": "Academia Força Bruta",
+        "telefone": "+5562992297004",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:04:57.447Z"
+      },
+      {
+        "nome": "Ultra Academia - Setor Oeste",
+        "telefone": "+5562981442900",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:05:38.169Z"
+      },
+      {
+        "nome": "Soma Wellness",
+        "telefone": "+556231004596",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:33:07.126Z"
+      },
+      {
+        "nome": "Academia Mais Saúde",
+        "telefone": "+5562981319687",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "academias",
+        "dataExtracao": "2026-04-15T18:51:09.240Z",
+        "dataContato": "2026-04-15T19:33:38.077Z"
+      },
+      {
+        "nome": "Studio Y",
+        "telefone": "+5562994210710",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.057Z",
+        "dataContato": "2026-04-15T19:34:55.146Z"
+      },
+      {
+        "nome": "Barone Salon",
+        "telefone": "+5562993073400",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.057Z",
+        "dataContato": "2026-04-15T19:35:45.730Z"
+      },
+      {
+        "nome": "Salon Absolut",
+        "telefone": "+5562991121657",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.057Z",
+        "dataContato": "2026-04-15T19:36:48.611Z"
+      },
+      {
+        "nome": "Luiza Beauty",
+        "telefone": "+5562994418098",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.057Z",
+        "dataContato": "2026-04-15T19:39:27.398Z"
+      },
+      {
+        "nome": "Kadu Furtado",
+        "telefone": "+5562981238108",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.057Z",
+        "dataContato": "2026-04-15T19:48:15.607Z"
+      },
+      {
+        "nome": "Edna Alongamentos",
+        "telefone": "+5562982472624",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.058Z",
+        "dataContato": "2026-04-15T19:55:12.908Z"
+      },
+      {
+        "nome": "Zu Salon - Salão de Beleza, Moreno Iluminado, Maquiagem, Mechas, Cabeleireiras",
+        "telefone": "+556232451113",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.058Z",
+        "dataContato": "2026-04-15T19:56:07.006Z"
+      },
+      {
+        "nome": "Garden Beauty Estética e Beleza",
+        "telefone": "+5562981320537",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "salão de beleza",
+        "dataExtracao": "2026-04-15T19:27:52.058Z",
+        "dataContato": "2026-04-15T19:59:29.506Z"
+      },
+      {
+        "nome": "Studio campos",
+        "telefone": "+5562993693007",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:47:23.233Z"
+      },
+      {
+        "nome": "Serena Beauty",
+        "telefone": "+5562981308053",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:48:11.073Z"
+      },
+      {
+        "nome": "Studio 54",
+        "telefone": "+556239560274",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:48:32.262Z"
+      },
+      {
+        "nome": "Débora Cortes",
+        "telefone": "+5562981680617",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:48:57.506Z"
+      },
+      {
+        "nome": "Love Unhas da Su",
+        "telefone": "+5562983158850",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:49:32.750Z"
+      },
+      {
+        "nome": "Salão Espaço da beleza",
+        "telefone": "+5562981828575",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:50:19.838Z"
+      },
+      {
+        "nome": "Dra Carol Assis Estética",
+        "telefone": "+5564981110815",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:50:55.162Z"
+      },
+      {
+        "nome": "Rhuana | Especialista em Mega Hair - Goiânia",
+        "telefone": "+5562985374747",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:51:25.924Z"
+      },
+      {
+        "nome": "Studio karenn",
+        "telefone": "+5562992802874",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:52:02.256Z"
+      },
+      {
+        "nome": "Turquesa Beleza & Bem Estar - Jardim Goiás Mall",
+        "telefone": "+5562981382634",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:52:23.420Z"
+      },
+      {
+        "nome": "BSM Odontologia e estética avançada",
+        "telefone": "+5562993557723",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:52:49.666Z"
+      },
+      {
+        "nome": "Kore Pilates Studio",
+        "telefone": "+5562981504696",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:53:14.925Z"
+      },
+      {
+        "nome": "Academia FT 38 - Cross Fit / Boxe / Muay Thai / Jiu- Jitsu / Judô",
+        "telefone": "+5562981270596",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:54:11.582Z"
+      },
+      {
+        "nome": "Flectir Hidro Esporte",
+        "telefone": "+5562984047450",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:55:44.476Z"
+      },
+      {
+        "nome": "World Gym PRO Goiânia",
+        "telefone": "+5562998262881",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:56:45.192Z"
+      },
+      {
+        "nome": "Consultório Reequilibrar",
+        "telefone": "+5562992495201",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:57:21.316Z"
+      },
+      {
+        "nome": "Camilla Alves Araújo Rodovalho - ginecologista (Terapia de reposição hormonal e estética íntima)",
+        "telefone": "+5562997011111",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:57:49.193Z"
+      },
+      {
+        "nome": "CLÍNICA MÁRCIO DIETZ |Blefaroplastia| Pálpebras Superior e Inferior|Mini Lifitng|Fios de Sustentação|Jd Goias.",
+        "telefone": "+5562999479002",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T14:59:22.131Z"
+      },
+      {
+        "nome": "RMN Genética - Reprodução Bovina",
+        "telefone": "+5562996238283",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:00:46.394Z"
+      },
+      {
+        "nome": "Amo Vacinas - Goiânia Setor Oeste",
+        "telefone": "+5562981077824",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:01:28.496Z"
+      },
+      {
+        "nome": "Clínica Mare",
+        "telefone": "+556232412535",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:02:31.459Z"
+      },
+      {
+        "nome": "CDI G - Goiânia - Unidade 1",
+        "telefone": "+556231218181",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:03:14.132Z"
+      },
+      {
+        "nome": "NovaClínica - Cuidando do que há de mais valioso, você!\" Resp. Técnico: Dr. Gustavo R. Fiori CRM-GO 8547 RQE 6987",
+        "telefone": "+556232121366",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:04:19.656Z"
+      },
+      {
+        "nome": "Elo Clínica Centro de Medicina e Diagnóstico",
+        "telefone": "+5562991395555",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:05:07.650Z"
+      },
+      {
+        "nome": "Medclin Unidade I",
+        "telefone": "+556236381121",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:05:50.602Z"
+      },
+      {
+        "nome": "Vacinas Santa Clara - Unidade Oeste",
+        "telefone": "+5562996844689",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T14:46:55.421Z",
+        "dataContato": "2026-04-17T15:08:25.667Z"
+      },
+      {
+        "nome": "Dra. Andressa Rodrigues",
+        "telefone": "+5562992479559",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:21:38.175Z"
+      },
+      {
+        "nome": "ESPAÇO NARA REIS",
+        "telefone": "+5562986197239",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:22:54.554Z"
+      },
+      {
+        "nome": "Clínica Corpostetic",
+        "telefone": "+5562996325128",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:23:24.727Z"
+      },
+      {
+        "nome": "Sua Saúde Estúdio de Pilates Clássico",
+        "telefone": "+5562982758852",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:24:29.598Z"
+      },
+      {
+        "nome": "Bronzeamento A Jato Glow Up",
+        "telefone": "+5562981992893",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:25:02.656Z"
+      },
+      {
+        "nome": "Star Bella Studio Hair",
+        "telefone": "+5562983011514",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:25:53.687Z"
+      },
+      {
+        "nome": "Luma Estética",
+        "telefone": "+5562992528401",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:26:38.961Z"
+      },
+      {
+        "nome": "Eliseu Florêncio - Salão de Beleza",
+        "telefone": "+5562982730176",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-17T15:20:52.278Z",
+        "dataContato": "2026-04-17T15:27:22.191Z"
+      },
+      {
+        "nome": "Dr. Ronaldo Moura Pediatra em Goiânia, Goiás",
+        "telefone": "+5562992646874",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:44:47.321Z"
+      },
+      {
+        "nome": "Dra Jordana Doege | Harmonização Facial Goiânia",
+        "telefone": "+5563999781511",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:45:55.344Z"
+      },
+      {
+        "nome": "Dr. Gustavo de Carvalho Araújo | Psiquiatra Goiânia | Neuromodulação",
+        "telefone": "+5562996777251",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:46:31.637Z"
+      },
+      {
+        "nome": "Dra. Ana Caroline Vilela",
+        "telefone": "+5562993375909",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:47:07.301Z"
+      },
+      {
+        "nome": "Dr. Murillo Brandão Jr. | Nutrologista Goiânia",
+        "telefone": "+5562981400307",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:47:48.593Z"
+      },
+      {
+        "nome": "Dra. Pétra Pereira de Sousa",
+        "telefone": "+5562993778550",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:48:23.297Z"
+      },
+      {
+        "nome": "Clínica Sensis",
+        "telefone": "+5562999113538",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:49:08.580Z"
+      },
+      {
+        "nome": "Dr. Alysson Pinheiro",
+        "telefone": "+5562984451858",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-17T15:43:22.702Z",
+        "dataContato": "2026-04-17T15:49:48.599Z"
+      },
+      {
+        "nome": "Vox2you Academia de Oratória - Goiânia - Flamboyant",
+        "telefone": "+5562999259166",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:39:12.349Z"
+      },
+      {
+        "nome": "Duo Fit studio",
+        "telefone": "+5562991176162",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:39:50.329Z"
+      },
+      {
+        "nome": "NFG Treinamento Funcional",
+        "telefone": "+5562991004794",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Academia",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:40:26.324Z"
+      },
+      {
+        "nome": "Unha de gel - Jardim america - Goiânia - Jocasta",
+        "telefone": "+5562993219838",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:41:54.842Z"
+      },
+      {
+        "nome": "Dritto Salon",
+        "telefone": "+5562981406775",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:42:19.997Z"
+      },
+      {
+        "nome": "Spazio Lins Saúde Capilar Goiânia GO",
+        "telefone": "+558008782361",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:43:02.367Z"
+      },
+      {
+        "nome": "Dra. Larissa de Castro | Endocrinologia e Metabologia",
+        "telefone": "+5562981193233",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:43:29.586Z"
+      },
+      {
+        "nome": "Thiago Mustafa Microfisioterapia e Osteopatia",
+        "telefone": "+5562981868072",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:44:13.941Z"
+      },
+      {
+        "nome": "Veterinário Domiciliar - Dueto Vet",
+        "telefone": "+5562999851129",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:44:43.367Z"
+      },
+      {
+        "nome": "Aloapet Serviços Digitais",
+        "telefone": "+5562999936973",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:45:53.395Z"
+      },
+      {
+        "nome": "Vets Clínica Veterinária",
+        "telefone": "+5562984267192",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T16:38:56.184Z",
+        "dataContato": "2026-04-23T16:46:22.672Z"
+      },
+      {
+        "nome": "Pet Shop - Pet Glória",
+        "telefone": "+5562996015074",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T17:56:50.914Z"
+      },
+      {
+        "nome": "Centro Vet Parque",
+        "telefone": "+5562994078432",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T17:57:36.675Z"
+      },
+      {
+        "nome": "Somos Vet Clínica Veterinária 24h - Jardim Bela Vista",
+        "telefone": "+5562991476381",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T17:58:12.620Z"
+      },
+      {
+        "nome": "Unique Vet Centro Veterinário - Clínica Veterinária",
+        "telefone": "+556240160206",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T18:50:05.001Z"
+      },
+      {
+        "nome": "Karina Lima Pet home care",
+        "telefone": "+5562981409340",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T17:59:52.844Z"
+      },
+      {
+        "nome": "Duke Pet Store",
+        "telefone": "+5562998414351",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T18:01:51.305Z"
+      },
+      {
+        "nome": "Centro Veterinário e Pet Shop Vetsul",
+        "telefone": "+5562995413223",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T18:02:23.076Z"
+      },
+      {
+        "nome": "Dermatologia Veterinária em Goiania - Dra. Rosane Araujo",
+        "telefone": "+5562982003001",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T17:56:32.774Z",
+        "dataContato": "2026-04-23T18:02:53.468Z"
+      },
+      {
+        "nome": "Bloom Beauty & Care",
+        "telefone": "+5562986086708",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T18:27:40.628Z",
+        "dataContato": "2026-04-23T18:50:39.949Z"
+      },
+      {
+        "nome": "Easy Beauty - Metropolitan",
+        "telefone": "+5562999928227",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T18:27:40.628Z",
+        "dataContato": "2026-04-23T18:51:18.556Z"
+      },
+      {
+        "nome": "Clínica dos Animais",
+        "telefone": "+556239960999",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T18:27:40.628Z",
+        "dataContato": "2026-04-23T18:52:41.450Z"
+      },
+      {
+        "nome": "Laboratório Citocenter Shopping Flamboyant",
+        "telefone": "+5562985576536",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:30:23.836Z",
+        "dataContato": "2026-04-23T18:53:18.861Z"
+      },
+      {
+        "nome": "Urologista - Dr Marcus Jasson",
+        "telefone": "+556232817113",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:57:09.211Z",
+        "dataContato": "2026-04-23T18:59:45.747Z"
+      },
+      {
+        "nome": "Nidia Saldanha - Estética & Ozonioterapia",
+        "telefone": "+5562984382414",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:57:09.211Z",
+        "dataContato": "2026-04-23T19:00:28.998Z"
+      },
+      {
+        "nome": "Brookfield Towers",
+        "telefone": "+5562993189810",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:57:09.211Z",
+        "dataContato": "2026-04-23T19:01:07.029Z"
+      },
+      {
+        "nome": "Dr. Antônio de Deus (AD Cirurgia Plástica)",
+        "telefone": "+5562992857929",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:57:09.211Z",
+        "dataContato": "2026-04-23T19:02:04.840Z"
+      },
+      {
+        "nome": "Ápolis Estética",
+        "telefone": "+5562981990396",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:57:09.211Z",
+        "dataContato": "2026-04-23T19:02:34.300Z"
+      },
+      {
+        "nome": "Vistta Parque Flamboyant",
+        "telefone": "+5562999359822",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:57:09.211Z",
+        "dataContato": "2026-04-23T19:02:54.473Z"
+      },
+      {
+        "nome": "Park House Flamboyant",
+        "telefone": "+556239910490",
+        "contatado": true,
+        "cidade": "Goiania",
+        "nicho": "Clinicas",
+        "dataExtracao": "2026-04-23T18:57:09.211Z",
+        "dataContato": "2026-04-23T19:03:38.266Z"
+      },
+      {
+        "nome": "Veterinário Dr. Marcos Cabral- consultório e atendimento em domicilio",
+        "telefone": "+5562994220372",
+        "contatado": false,
+        "cidade": "Goiania",
+        "nicho": "Veterinario",
+        "dataExtracao": "2026-04-23T19:06:17.272Z"
+      },
+      {
+        "nome": "Fast Escova Nova Suíça",
+        "telefone": "+556239963334",
+        "contatado": false,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T19:37:36.398Z"
+      },
+      {
+        "nome": "Lapur Studio - Unhas Russas",
+        "telefone": "+5562983312014",
+        "contatado": false,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T19:37:36.398Z"
+      },
+      {
+        "nome": "BF Salões Unidade Jardim Goias",
+        "telefone": "+5562981224687",
+        "contatado": false,
+        "cidade": "Goiania",
+        "nicho": "Saloes de beleza",
+        "dataExtracao": "2026-04-23T19:37:36.398Z"
+      }
+    ]
+  }
+}

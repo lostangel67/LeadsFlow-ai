@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_claude-mem_mcp-search__smart_outline",
+      "WebFetch(domain:www.sofihealth.com)",
+      "Bash(npm run *)",
+      "mcp__overclock__pane_list_providers",
+      "mcp__overclock__pane_spawn",
+      "mcp__overclock__pane_write",
+      "mcp__overclock__pane_wait_idle",
+      "mcp__overclock__pane_read",
+      "Bash(node -e \"require\\('openai'\\); console.log\\('openai OK'\\)\")",
+      "mcp__overclock__pane_close",
+      "Bash(rtk npm *)",
+      "Bash(npm start *)",
+      "mcp__patapim-browser__browser_navigate",
+      "Bash(git init *)",
+      "Bash(npm install *)"
+    ]
+  }
+}

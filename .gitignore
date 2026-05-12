@@ -1,0 +1,9 @@
+node_modules/
+whatsapp-session/
+logs/
+dist/
+build/*
+!build/icon.ico
+*.log
+.env
+release/
