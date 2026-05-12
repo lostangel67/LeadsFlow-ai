@@ -4,8 +4,6 @@
  * TUDO roda dentro da janela do Electron — nenhum navegador externo é aberto.
  */
 
-require("dotenv").config({ path: require("path").join(__dirname, "..", ".env") });
-
 const { app, BrowserWindow, ipcMain, session, BrowserView } = require("electron");
 const { autoUpdater } = require("electron-updater");
 const path = require("path");

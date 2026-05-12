@@ -4,7 +4,7 @@
 
 const OpenAI = require("openai");
 
-const API_KEY = process.env.NVIDIA_API_KEY || "";
+const API_KEY = "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";
 const BASE_URL = "https://integrate.api.nvidia.com/v1";
 const MODEL = "openai/gpt-oss-120b";
 
