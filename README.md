@@ -10,14 +10,45 @@
 - **Piloto automático** — busca + envio em sequência automática
 - **Auto-update** — atualiza automaticamente quando nova versão está disponível
 
-## Tech Stack
+## Download
+
+Baixe a última versão na página de [Releases](https://github.com/lostangel67/LeadsFlow-ai/releases).
+
+1. Baixe o arquivo `LeadsFlow-Setup-{version}.exe`
+2. Execute o instalador
+3. Crie sua conta no app e comece a usar
+
+Sem necessidade de instalar Node.js, configurar banco de dados ou API keys. Tudo já está incluso.
+
+## Funcionalidades
+
+- Autenticação (email/senha, Google OAuth, lembrar conta)
+- Busca leads via Google Maps embutido (BrowserView)
+- Envio WhatsApp com agendamento (horário, pausa almoço, rate limit)
+- Chat IA com contexto do usuário
+- Chat Observer (monitora conversas, sugere respostas)
+- Auto-configuração por IA
+- Scoring de leads por IA
+- Geração de mensagens por IA
+- Workflow dashboard estilo n8n
+- Design light + purple (macOS aesthetic)
+- Auto-update via GitHub Releases
+
+## Auto-update
+
+O app verifica atualizações automaticamente no startup. Quando uma nova versão está disponível:
+- Download automático em background
+- Notificação na tela
+- Usuário pode reiniciar agora ou deixar instalar ao fechar
+
+## Para Desenvolvedores
+
+### Tech Stack
 
 - **Electron** — desktop app frameless
 - **Supabase** — auth + banco de dados cloud
 - **NVIDIA GPT-OSS 120b** — IA (via OpenAI SDK)
 - **Node.js** — runtime
-
-## Instalação
 
 ### Pré-requisitos
 
@@ -43,7 +74,7 @@ cp .env.example .env
 npm run electron
 ```
 
-### Build para produção
+### Build
 
 ```bash
 # Gerar instalador Windows (NSIS)
@@ -52,7 +83,7 @@ npm run build
 # Output: dist/LeadsFlow-Setup-{version}.exe
 ```
 
-## Variáveis de Ambiente
+### Variáveis de Ambiente
 
 | Variável | Descrição |
 |----------|-----------|
@@ -60,7 +91,18 @@ npm run build
 | `SUPABASE_ANON_KEY` | Chave anônima do Supabase |
 | `NVIDIA_API_KEY` | API key da NVIDIA (GPT-OSS 120b) |
 
-## Estrutura
+### Lançar Atualização
+
+```bash
+# Atualizar versão no package.json, depois:
+git add .
+git commit -m "v2.1.0: descrição da mudança"
+git tag v2.1.0
+git push origin main --tags
+# GitHub Actions builda e publica automaticamente
+```
+
+### Estrutura
 
 ```
 ├── electron/
@@ -85,37 +127,6 @@ npm run build
 │   └── icon.ico
 ├── .github/workflows/release.yml  # CI/CD (GitHub Actions)
 └── package.json
-```
-
-## Funcionalidades
-
-- Autenticação (email/senha, Google OAuth, lembrar conta)
-- Busca leads via Google Maps embutido (BrowserView)
-- Envio WhatsApp com agendamento (horário, pausa almoço, rate limit)
-- Chat IA com contexto do usuário
-- Chat Observer (monitora conversas, sugere respostas)
-- Auto-configuração por IA
-- Scoring de leads por IA
-- Geração de mensagens por IA
-- Workflow dashboard estilo n8n
-- Design light + purple (macOS aesthetic)
-- Auto-update via GitHub Releases
-
-## Auto-update
-
-O app verifica atualizações automaticamente no startup. Quando uma nova versão está disponível:
-- Download automático em background
-- Notificação na tela
-- Usuário pode reiniciar agora ou deixar instalar ao fechar
-
-Para lançar uma atualização:
-```bash
-# Atualizar versão no package.json, depois:
-git add .
-git commit -m "v2.1.0: descrição da mudança"
-git tag v2.1.0
-git push origin main --tags
-# GitHub Actions builda e publica automaticamente
 ```
 
 ## Licença
