@@ -7,3 +7,16 @@ build/*
 *.log
 .env
 release/
+electron/
+renderer/
+src/
+config.js
+context.md
+index.js
+package.json
+package-lock.json
+supabase/
+supabase-setup.sql
+INICIAR_ROBO.bat
+Iniciar_Silencioso.vbs
+.github/
