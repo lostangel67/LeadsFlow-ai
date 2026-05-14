@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://fonts.gstatic.com; font-src https://fonts.gstatic.com; script-src 'self';" />
+  <title>LeadsFlow</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- TITLE BAR -->
+  <header id="titlebar">
+    <div class="traffic-lights">
+      <button id="btn-close" class="traffic-light tl-close" title="Fechar">
+        <svg viewBox="0 0 12 12"><line x1="3" y1="3" x2="9" y2="9"/><line x1="9" y1="3" x2="3" y2="9"/></svg>
+      </button>
+      <button id="btn-minimize" class="traffic-light tl-minimize" title="Minimizar">
+        <svg viewBox="0 0 12 12"><line x1="2" y1="6" x2="10" y2="6"/></svg>
+      </button>
+      <button id="btn-maximize" class="traffic-light tl-maximize" title="Maximizar">
+        <svg viewBox="0 0 12 12"><polyline points="3,8 3,3 8,3"/><polyline points="9,4 9,9 4,9"/></svg>
+      </button>
+    </div>
+    <div class="titlebar-drag">
+      <div class="titlebar-logo">
+        <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" width="14" height="14">
+          <polygon points="9,1 2,9 8,9 7,15 14,7 8,7" fill="white"/>
+        </svg>
+      </div>
+      <span class="titlebar-text">LeadsFlow</span>
+      <span class="titlebar-tag">Pro</span>
+    </div>
+    <div class="titlebar-controls">
+      <button id="btn-theme-toggle" title="Alternar tema claro/escuro">
+        <!-- icon injected by app.js -->
+        <svg id="theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="14" height="14" style="display:none;">
+          <circle cx="12" cy="12" r="5"/>
+          <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+          <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+        </svg>
+        <svg id="theme-icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="14" height="14" style="display:none;">
+          <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- MAIN LAYOUT -->
+  <div id="app-container">
+
+    <!-- SIDEBAR -->
+    <nav id="sidebar">
+      <div class="sidebar-nav">
+
+        <button class="sidebar-btn active" data-panel="dashboard" id="nav-dashboard">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <rect x="3" y="3" width="7" height="7" rx="1.5"/>
+              <rect x="14" y="3" width="7" height="7" rx="1.5"/>
+              <rect x="14" y="14" width="7" height="7" rx="1.5"/>
+              <rect x="3" y="14" width="7" height="7" rx="1.5"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Dashboard</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="ia" id="nav-ia">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <path d="M12 2a4 4 0 014 4v1a4 4 0 01-8 0V6a4 4 0 014-4z"/>
+              <path d="M9 14h6"/>
+              <path d="M12 14v4"/>
+              <path d="M8 18h8"/>
+              <path d="M6 22h12"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">IA</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="agendamento" id="nav-agendamento">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <rect x="3" y="4" width="18" height="18" rx="2"/>
+              <path d="M16 2v4M8 2v4M3 10h18"/>
+              <path d="M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Agendamento</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="chat" id="nav-chat">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+              <path d="M8 9h8"/><path d="M8 13h4"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Chat IA</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="mensagens" id="nav-mensagens">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Mensagens</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="leads" id="nav-leads">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/>
+              <circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Leads</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="whatsapp" id="nav-whatsapp">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.8 19.79 19.79 0 01.12 1.18 2 2 0 012.11 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.09a16 16 0 006 6l.46-.46a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">WhatsApp</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="maps" id="nav-maps">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <circle cx="11" cy="11" r="7"/>
+              <line x1="16.5" y1="16.5" x2="21" y2="21"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Busca de Leads</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="sobre" id="nav-sobre">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <circle cx="12" cy="12" r="10"/>
+              <line x1="12" y1="8" x2="12" y2="12"/>
+              <line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Sobre</span>
+        </button>
+
+        <button class="sidebar-btn" data-panel="logs" id="nav-logs">
+          <span class="sidebar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+              <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/>
+              <polyline points="14 2 14 8 20 8"/>
+              <line x1="16" y1="13" x2="8" y2="13"/>
+              <line x1="16" y1="17" x2="8" y2="17"/>
+              <polyline points="10 9 9 9 8 9"/>
+            </svg>
+          </span>
+          <span class="sidebar-label">Logs</span>
+        </button>
+
+      </div>
+
+      <div class="sidebar-actions">
+        <div class="sidebar-actions-label">Ações</div>
+
+        <button id="btn-autopilot" class="btn-autopilot" title="Modo Piloto Automático — busca e envia tudo sozinho">
+          <span class="autopilot-dot"></span>
+          Piloto Automático
+        </button>
+
+        <button id="btn-start-search" class="action-btn" title="Buscar leads no Google Maps">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="13" height="13">
+            <circle cx="11" cy="11" r="8"/>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          Buscar Leads
+        </button>
+
+        <button id="btn-start-campaign" class="action-btn" title="Enviar mensagens">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="13" height="13">
+            <line x1="22" y1="2" x2="11" y2="13"/>
+            <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+          </svg>
+          Enviar Mensagens
+        </button>
+
+        <button id="btn-stop" class="action-btn btn-stop" title="Parar execução" style="display:none;">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13">
+            <rect x="4" y="4" width="16" height="16" rx="2"/>
+          </svg>
+          Parar Tudo
+        </button>
+
+        <button id="btn-logout" class="action-btn btn-logout" title="Sair da conta">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="13" height="13">
+            <path d="M9 21H5a2 2 0 01-2-2V5a2 2 0 012-2h4"/>
+            <polyline points="16 17 21 12 16 7"/>
+            <line x1="21" y1="12" x2="9" y2="12"/>
+          </svg>
+          Sair
+        </button>
+
+        <div class="sidebar-version">
+          <span id="app-version">v0.0.0</span>
+          <button id="btn-check-update" class="btn-update-check" title="Verificar atualização">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="12" height="12">
+              <polyline points="23 4 23 10 17 10"/>
+              <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <!-- CONTENT AREA -->
+    <main id="content">
+
+      <!-- PANEL: DASHBOARD -->
+      <section id="panel-dashboard" class="panel active">
+        <div class="panel-header">
+          <div>
+            <h2>Dashboard</h2>
+            <p>Visão geral do sistema de automação</p>
+          </div>
+        </div>
+
+        <div id="autopilot-status-panel" class="autopilot-panel">
+          <div class="autopilot-indicator" id="autopilot-icon">⚡</div>
+          <div class="autopilot-details">
+            <h3 id="autopilot-title">Piloto Automático Desligado</h3>
+            <p id="autopilot-desc">Clique no botão "Piloto Automático" para iniciar a automação completa.</p>
+            <span class="phase-tag" id="autopilot-phase" style="display:none;">AGUARDANDO</span>
+          </div>
+        </div>
+
+        <div class="stats-bar">
+          <div class="stat-card">
+            <div class="stat-card-top">
+              <span class="stat-label">Total Leads</span>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="13" height="13">
+                <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/>
+                <path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/>
+              </svg>
+            </div>
+            <span class="stat-number" id="dash-total">0</span>
+          </div>
+          <div class="stat-card stat-success">
+            <div class="stat-card-top">
+              <span class="stat-label">Contatados</span>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="13" height="13">
+                <polyline points="20 6 9 17 4 12"/>
+              </svg>
+            </div>
+            <span class="stat-number" id="dash-contatados">0</span>
+          </div>
+          <div class="stat-card stat-pending">
+            <div class="stat-card-top">
+              <span class="stat-label">Pendentes</span>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="13" height="13">
+                <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+              </svg>
+            </div>
+            <span class="stat-number" id="dash-pendentes">0</span>
+          </div>
+          <div class="stat-card stat-historic">
+            <div class="stat-card-top">
+              <span class="stat-label">Histórico</span>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="13" height="13">
+                <polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/>
+                <polyline points="17 6 23 6 23 12"/>
+              </svg>
+            </div>
+            <span class="stat-number" id="dash-enviados">0</span>
+          </div>
+        </div>
+
+        <div class="card full-width">
+          <div class="card-header">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="14" height="14">
+              <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+            </svg>
+            <h3>Atividade Recente</h3>
+          </div>
+          <div class="card-body" style="padding:0;">
+            <div id="dash-activity" class="activity-feed">
+              <div class="activity-item">
+                <span class="activity-icon">✅</span>
+                <span class="activity-text">Sistema pronto</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: MENSAGENS -->
+      <section id="panel-mensagens" class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>Mensagens</h2>
+            <p>Templates de mensagem (rotação aleatória)</p>
+          </div>
+        </div>
+
+        <div class="card full-width" style="margin-bottom:14px;">
+          <div class="card-body">
+            <div class="form-group" style="margin:0;">
+              <label for="cfg-ai-tom">Tom das mensagens</label>
+              <select id="cfg-ai-tom">
+                <option value="profissional">Profissional</option>
+                <option value="casual">Casual</option>
+                <option value="amigável">Amigável</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="card full-width">
+          <div class="card-header">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="14" height="14">
+              <path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/>
+              <path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/>
+            </svg>
+            <h3>Templates</h3>
+          </div>
+          <div class="card-body">
+            <p class="form-hint" style="margin-bottom:14px;">O bot escolhe uma mensagem aleatória para cada lead. Use <code>{nome}</code> para inserir o nome do lead.</p>
+            <div id="mensagens-list"></div>
+            <div class="msg-actions">
+              <button id="btn-gerar-mensagens" class="btn btn-secondary">Gerar mensagens com IA</button>
+              <button id="btn-add-msg" class="btn btn-secondary">+ Adicionar</button>
+              <button id="btn-save-msgs" class="btn btn-primary">Salvar Mensagens</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: LEADS -->
+      <section id="panel-leads" class="panel">
+        <div class="panel-header"><div><h2>Leads</h2><p>Gerencie seus leads</p></div></div>
+        <div class="panel-actions">
+          <button id="btn-rename-lead-list" class="btn btn-small btn-secondary" title="Renomear aba">Renomear</button>
+          <button id="btn-delete-lead-list" class="btn btn-small btn-secondary" title="Excluir aba">Excluir</button>
+          <button id="btn-new-lead-list" class="btn btn-small btn-secondary">+ Nova Aba</button>
+        </div>
+
+        <div class="lead-tabs-wrap">
+          <div id="lead-tabs" class="lead-tabs"></div>
+        </div>
+
+        <div class="stats-bar">
+          <div class="stat-card">
+            <div class="stat-card-top"><span class="stat-label">Total</span></div>
+            <span class="stat-number" id="stat-total">0</span>
+          </div>
+          <div class="stat-card stat-success">
+            <div class="stat-card-top"><span class="stat-label">Contatados</span></div>
+            <span class="stat-number" id="stat-contatados">0</span>
+          </div>
+          <div class="stat-card stat-pending">
+            <div class="stat-card-top"><span class="stat-label">Pendentes</span></div>
+            <span class="stat-number" id="stat-pendentes">0</span>
+          </div>
+          <div class="stat-card stat-historic">
+            <div class="stat-card-top"><span class="stat-label">Histórico</span></div>
+            <span class="stat-number" id="stat-enviados-total">0</span>
+          </div>
+        </div>
+
+        <div class="card full-width">
+          <div class="card-body" style="padding:0;">
+            <div class="table-wrapper">
+              <table id="leads-table">
+                <thead>
+                  <tr>
+                    <th>Nome</th>
+                    <th>Telefone</th>
+                    <th>Cidade</th>
+                    <th>Nicho</th>
+                    <th>Status</th>
+                    <th>Ações</th>
+                  </tr>
+                </thead>
+                <tbody id="leads-tbody">
+                  <tr><td colspan="6" class="empty-state">Nenhum lead encontrado. Inicie uma busca.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: WHATSAPP -->
+      <section id="panel-whatsapp" class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>WhatsApp Web</h2>
+            <p>Conecte seu WhatsApp escaneando o QR Code</p>
+          </div>
+        </div>
+        <div class="whatsapp-placeholder">
+          <div class="whatsapp-info">
+            <div class="placeholder-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="28" height="28">
+                <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.8 19.79 19.79 0 01.12 1.18 2 2 0 012.11 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.91 7.09a16 16 0 006 6l.46-.46a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/>
+              </svg>
+            </div>
+            <h3>Navegador WhatsApp Web ativo</h3>
+            <p>O WhatsApp Web aparece por trás deste painel. Escaneie o QR Code para conectar.</p>
+            <p class="form-hint" style="margin-top:6px;">A sessão é salva automaticamente.</p>
+          </div>
+        </div>
+        <!-- AI OBSERVER OVERLAY -->
+        <div id="ai-observer-overlay" class="ai-observer" style="display:none;">
+          <div class="ai-observer-header">
+            <span class="ai-observer-title">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="14" height="14">
+                <path d="M12 2a4 4 0 014 4v1a4 4 0 01-8 0V6a4 4 0 014-4z"/><path d="M9 14h6"/><path d="M12 14v4"/><path d="M8 18h8"/>
+              </svg>
+              Assistente IA
+            </span>
+            <button id="ai-observer-close" class="ai-observer-btn" title="Fechar">&times;</button>
+          </div>
+          <div class="ai-observer-controls">
+            <label class="ai-observer-toggle-label">
+              <input type="checkbox" id="ai-observer-toggle" />
+              <span>Ativar monitoramento</span>
+            </label>
+          </div>
+          <div class="ai-observer-status" id="ai-observer-status">
+            <span class="ai-observer-dot"></span>
+            <span id="ai-observer-status-text">Desativado</span>
+          </div>
+          <div class="ai-observer-body" id="ai-observer-body">
+            <div class="ai-observer-suggestion" id="ai-observer-suggestion" style="display:none;">
+              <div class="ai-observer-suggestion-header">
+                <span>Sugestão da IA</span>
+                <button id="ai-observer-dismiss" class="ai-observer-btn-sm" title="Dispensar">&times;</button>
+              </div>
+              <p id="ai-observer-suggestion-text"></p>
+              <button id="ai-observer-copy" class="btn btn-small btn-secondary">Copiar</button>
+            </div>
+            <div class="ai-observer-empty" id="ai-observer-empty">
+              <p>A IA está observando a conversa e sugere respostas quando apropriado.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: MAPS / WORKFLOW -->
+      <section id="panel-maps" class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>Scraping</h2>
+            <p>Busca de leads no Google Maps</p>
+          </div>
+        </div>
+
+        <div class="wf-container" id="wf-container">
+          <!-- Estado vazio -->
+          <div class="wf-empty" id="wf-empty">
+            <div class="wf-empty-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="40" height="40">
+                <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>
+              </svg>
+            </div>
+            <h3>Nenhuma busca ativa</h3>
+            <p>Inicie uma busca de leads para ver o progresso em tempo real.</p>
+          </div>
+
+          <!-- Workflow -->
+          <div class="wf-workflow" id="wf-workflow" style="display:none;">
+
+            <!-- Stepper -->
+            <div class="wf-stepper" id="wf-stepper">
+              <div class="wf-step" data-step="init">
+                <div class="wf-step-dot"></div>
+                <span class="wf-step-label">Iniciando</span>
+              </div>
+              <div class="wf-step-line"></div>
+              <div class="wf-step" data-step="search">
+                <div class="wf-step-dot"></div>
+                <span class="wf-step-label">Buscando</span>
+              </div>
+              <div class="wf-step-line"></div>
+              <div class="wf-step" data-step="scroll">
+                <div class="wf-step-dot"></div>
+                <span class="wf-step-label">Rolando</span>
+              </div>
+              <div class="wf-step-line"></div>
+              <div class="wf-step" data-step="extract">
+                <div class="wf-step-dot"></div>
+                <span class="wf-step-label">Extraindo</span>
+              </div>
+              <div class="wf-step-line"></div>
+              <div class="wf-step" data-step="phone">
+                <div class="wf-step-dot"></div>
+                <span class="wf-step-label">Telefones</span>
+              </div>
+              <div class="wf-step-line"></div>
+              <div class="wf-step" data-step="save">
+                <div class="wf-step-dot"></div>
+                <span class="wf-step-label">Salvando</span>
+              </div>
+            </div>
+
+            <!-- Detail text -->
+            <div class="wf-detail" id="wf-detail"></div>
+
+            <!-- Progress bar -->
+            <div class="wf-progress-track">
+              <div class="wf-progress-bar" id="wf-progress-bar" style="width:0%"></div>
+            </div>
+
+            <!-- Stat cards -->
+            <div class="wf-cards">
+              <div class="wf-card">
+                <span class="wf-card-num" id="wf-stat-cidades">0</span>
+                <span class="wf-card-label">Cidades</span>
+              </div>
+              <div class="wf-card">
+                <span class="wf-card-num" id="wf-stat-leads">0</span>
+                <span class="wf-card-label">Leads</span>
+              </div>
+              <div class="wf-card">
+                <span class="wf-card-num" id="wf-stat-erros">0</span>
+                <span class="wf-card-label">Erros</span>
+              </div>
+            </div>
+
+            <!-- Log -->
+            <div class="wf-log" id="wf-log">
+              <div class="wf-log-header" id="wf-log-header">
+                <span>Log</span>
+                <button id="wf-log-toggle" class="wf-log-toggle">▼</button>
+              </div>
+              <div class="wf-log-body" id="wf-log-body"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: IA -->
+      <section id="panel-ia" class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>Inteligência Artificial</h2>
+            <p>Configure seu produto e objetivo — a IA cuida do resto</p>
+          </div>
+        </div>
+
+        <div class="cards-grid">
+          <div class="card">
+            <div class="card-header">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="14" height="14">
+                <path d="M12 2a4 4 0 014 4v1a4 4 0 01-8 0V6a4 4 0 014-4z"/>
+                <path d="M9 14h6"/><path d="M12 14v4"/><path d="M8 18h8"/>
+              </svg>
+              <h3>Seu Negócio</h3>
+            </div>
+            <div class="card-body">
+              <div class="form-group" style="display:flex;align-items:center;justify-content:flex-end;">
+                <button id="btn-auto-config" class="btn btn-secondary" style="flex-shrink:0;white-space:nowrap;">Configurar com IA</button>
+              </div>
+              <div id="auto-config-resultado" style="margin-bottom:6px;"></div>
+
+              <div class="form-group">
+                <label for="cfg-ai-produto">Seu produto ou serviço</label>
+                <textarea id="cfg-ai-produto" rows="3" placeholder="Ex: Desenvolvimento de sites e landing pages para pequenas empresas..."></textarea>
+              </div>
+
+              <div class="form-group">
+                <label for="cfg-ai-objetivo">O que você quer fazer agora?</label>
+                <textarea id="cfg-ai-objetivo" rows="2" placeholder="Ex: Prospectar dentistas em São Paulo hoje, testar mensagens novas, focar em leads de alto score..."></textarea>
+                <p class="form-hint">A IA usa isso pra personalizar sugestões, scoring e mensagens pro seu objetivo atual.</p>
+              </div>
+
+              <div class="form-group">
+                <label for="cfg-nichos-multi">Empresas que você quer buscar</label>
+                <textarea id="cfg-nichos-multi" rows="2" placeholder="Ex: dentistas, advogados, pet shop (separe por vírgula)"></textarea>
+              </div>
+
+              <div class="form-group">
+                <label for="cfg-cidade">Cidade / Região</label>
+                <input type="text" id="cfg-cidade" placeholder="Ex: São Paulo, Curitiba... ou deixe vazio para Brasil inteiro" />
+              </div>
+
+              <div class="form-group">
+                <label for="cfg-ai-min-score">Score mínimo do lead (0–100)</label>
+                <div class="range-row">
+                  <input type="range" id="cfg-ai-min-score" min="0" max="100" step="5" value="40" />
+                  <span class="range-value" id="val-ai-min-score">40</span>
+                </div>
+                <p class="form-hint">Leads com score abaixo deste valor serão ignorados. Recomendado: 40–60.</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="card">
+            <div class="card-header">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="14" height="14">
+                <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              </svg>
+              <h3>Sugestão de Nichos por IA</h3>
+            </div>
+            <div class="card-body">
+              <p class="form-hint" style="margin-bottom:14px;">Descreva seu produto/serviço acima e a IA sugere os melhores nichos para prospectar. Clique em um nicho para adicioná-lo à lista de busca.</p>
+              <button id="btn-ai-sugerir" class="btn btn-secondary" style="margin-bottom:14px;">Sugerir Nichos</button>
+              <div id="ai-nichos-resultado" class="nichos-container"></div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- PANEL: AGENDAMENTO -->
+      <section id="panel-agendamento" class="panel">
+        <div class="panel-header"><div><h2>Agendamento</h2></div></div>
+
+        <div class="card full-width">
+          <div class="card-body">
+
+            <!-- Toggle geral -->
+            <div class="form-group" style="display:flex;align-items:center;justify-content:space-between;padding-bottom:14px;border-bottom:1px solid var(--border);margin-bottom:14px;">
+              <div>
+                <div style="font-weight:600;font-size:13px;color:var(--text-primary);">Agendamento ativo</div>
+                <div style="font-size:12px;color:var(--text-secondary);margin-top:2px;">Quando ativo, envios só ocorrem no horário e dias configurados abaixo.</div>
+              </div>
+              <label class="toggle-switch">
+                <input type="checkbox" id="cfg-schedule-enabled" />
+                <span class="toggle-track"><span class="toggle-thumb"></span></span>
+              </label>
+            </div>
+
+            <!-- Horário de funcionamento -->
+            <div class="form-group">
+              <label style="font-weight:600;font-size:12px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">Horário de funcionamento</label>
+              <div style="display:flex;gap:10px;margin-top:6px;">
+                <div style="flex:1;">
+                  <label for="cfg-schedule-start" style="font-size:12px;color:var(--text-secondary);">Início</label>
+                  <input type="time" id="cfg-schedule-start" class="input" value="09:00" />
+                </div>
+                <div style="flex:1;">
+                  <label for="cfg-schedule-end" style="font-size:12px;color:var(--text-secondary);">Fim</label>
+                  <input type="time" id="cfg-schedule-end" class="input" value="18:00" />
+                </div>
+              </div>
+            </div>
+
+            <!-- Pausa almoço -->
+            <div class="form-group">
+              <label style="font-weight:600;font-size:12px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">Pausa para almoço</label>
+              <div style="display:flex;gap:10px;margin-top:6px;">
+                <div style="flex:1;">
+                  <label for="cfg-lunch-start" style="font-size:12px;color:var(--text-secondary);">Início</label>
+                  <input type="time" id="cfg-lunch-start" class="input" value="12:00" />
+                </div>
+                <div style="flex:1;">
+                  <label for="cfg-lunch-end" style="font-size:12px;color:var(--text-secondary);">Fim</label>
+                  <input type="time" id="cfg-lunch-end" class="input" value="13:00" />
+                </div>
+              </div>
+            </div>
+
+            <!-- Dias da semana -->
+            <div class="form-group">
+              <label style="font-weight:600;font-size:12px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">Dias ativos</label>
+              <div class="days-picker" style="margin-top:8px;">
+                <button type="button" class="day-btn" data-day="0">Dom</button>
+                <button type="button" class="day-btn active" data-day="1">Seg</button>
+                <button type="button" class="day-btn active" data-day="2">Ter</button>
+                <button type="button" class="day-btn active" data-day="3">Qua</button>
+                <button type="button" class="day-btn active" data-day="4">Qui</button>
+                <button type="button" class="day-btn active" data-day="5">Sex</button>
+                <button type="button" class="day-btn" data-day="6">Sáb</button>
+              </div>
+            </div>
+
+            <!-- Delays e limites -->
+            <div class="form-group" style="margin-top:4px;">
+              <label style="font-weight:600;font-size:12px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.5px;">Delay entre mensagens (segundos)</label>
+              <div style="display:flex;gap:10px;margin-top:6px;">
+                <div style="flex:1;">
+                  <label for="cfg-delay-min" style="font-size:12px;color:var(--text-secondary);">Mínimo</label>
+                  <input type="number" id="cfg-delay-min" class="input" min="10" max="300" value="35" />
+                </div>
+                <div style="flex:1;">
+                  <label for="cfg-delay-max" style="font-size:12px;color:var(--text-secondary);">Máximo</label>
+                  <input type="number" id="cfg-delay-max" class="input" min="10" max="300" value="85" />
+                </div>
+              </div>
+            </div>
+
+            <div style="display:flex;gap:10px;">
+              <div class="form-group" style="flex:1;">
+                <label for="cfg-limite-diario">Limite diário de envios</label>
+                <input type="number" id="cfg-limite-diario" class="input" min="1" max="500" value="40" />
+              </div>
+              <div class="form-group" style="flex:1;">
+                <label for="cfg-max-per-hour">Máximo por hora</label>
+                <input type="number" id="cfg-max-per-hour" class="input" min="1" max="100" value="10" />
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: CHAT IA -->
+      <section id="panel-chat" class="panel">
+        <div class="chat-topbar">
+          <button id="btn-chat-history" class="chat-topbar-btn" title="Histórico de conversas">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
+              <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+            </svg>
+          </button>
+          <span class="chat-topbar-title" id="chat-topbar-title">Nova conversa</span>
+          <button id="btn-chat-new" class="chat-topbar-btn" title="Nova conversa">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
+              <path d="M12 5v14M5 12h14"/>
+            </svg>
+          </button>
+        </div>
+
+        <!-- History sidebar (overlay) -->
+        <div id="chat-history-panel" class="chat-history-panel" style="display:none;">
+          <div class="chat-history-header">
+            <span>Conversas</span>
+            <button id="btn-chat-history-close" class="chat-topbar-btn" title="Fechar">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+                <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+              </svg>
+            </button>
+          </div>
+          <div id="chat-session-list" class="chat-sessions"></div>
+        </div>
+
+        <div class="chat-container">
+          <div id="chat-messages" class="chat-messages">
+            <div class="chat-empty" id="chat-empty-state">
+              <div class="chat-empty-icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
+                  <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+                  <path d="M8 9h8"/><path d="M8 13h4"/>
+                </svg>
+              </div>
+              <h3>Como posso ajudar?</h3>
+              <p>Converse com a IA sobre marketing, prospecção e vendas</p>
+              <div class="chat-suggestions">
+                <button class="chat-suggestion" data-msg="Melhore minhas mensagens de prospecção no WhatsApp">Melhorar mensagens</button>
+                <button class="chat-suggestion" data-msg="Quais são os melhores nichos para prospectar hoje?">Melhores nichos</button>
+                <button class="chat-suggestion" data-msg="Me ajude a criar uma mensagem de abertura que converta mais.">Criar mensagem</button>
+                <button class="chat-suggestion" data-msg="Como aumentar a taxa de resposta dos meus leads?">Aumentar respostas</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="chat-input-area" id="chat-input-area">
+            <div class="chat-input-wrapper">
+              <textarea id="chat-input" rows="1" placeholder="Pergunte sobre marketing, vendas, leads..."></textarea>
+              <button id="btn-chat-send" class="btn-send-chat" title="Enviar">
+                <svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18">
+                  <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                </svg>
+              </button>
+            </div>
+            <span class="chat-footer-hint">A IA pode cometer erros. Verifique informações importantes.</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: SOBRE -->
+      <section id="panel-sobre" class="panel">
+        <div class="sobre-container">
+          <div class="sobre-logo">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="36" height="36">
+              <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+            </svg>
+            <h1>LeadsFlow</h1>
+            <p class="sobre-tagline">Prospecção comercial automatizada via WhatsApp</p>
+          </div>
+
+          <div class="sobre-section">
+            <h2>O que é</h2>
+            <p>LeadsFlow é um app desktop que automatiza a busca de clientes no Google Maps e o envio de mensagens personalizadas pelo WhatsApp. Você configura o nicho, a cidade e a mensagem — o app faz o resto.</p>
+          </div>
+
+          <div class="sobre-section">
+            <h2>Como usar corretamente</h2>
+            <ol class="sobre-steps">
+              <li>
+                <div>
+                  <strong>Configure a IA primeiro</strong>
+                  Vá na aba <em>IA</em>, descreva seu produto/serviço, o que quer fazer e o tipo de empresa que quer buscar. Clique em <em>Configurar com IA</em> para gerar delays, limites e horários automaticamente.
+                </div>
+              </li>
+              <li>
+                <div>
+                  <strong>Conecte o WhatsApp</strong>
+                  Acesse a aba <em>WhatsApp</em> e escaneie o QR Code com seu celular. Mantenha o WhatsApp conectado enquanto o app estiver enviando mensagens.
+                </div>
+              </li>
+              <li>
+                <div>
+                  <strong>Busque leads</strong>
+                  Na aba <em>Scraping</em>, clique em <em>Buscar Leads</em>. O app abre o Google Maps internamente e extrai nome e telefone dos negócios encontrados no nicho e cidade configurados.
+                </div>
+              </li>
+              <li>
+                <div>
+                  <strong>Envie mensagens</strong>
+                  Na aba <em>Dashboard</em>, use o <em>Piloto Automático</em> para buscar e enviar em sequência, ou inicie só o envio na aba <em>WhatsApp</em>. O app envia uma mensagem por vez com delays humanos para evitar bloqueios.
+                </div>
+              </li>
+              <li>
+                <div>
+                  <strong>Acompanhe os resultados</strong>
+                  Na aba <em>Leads</em>, veja todos os leads encontrados, status de contato e score. Crie abas separadas para organizar campanhas diferentes.
+                </div>
+              </li>
+            </ol>
+          </div>
+
+          <div class="sobre-section">
+            <h2>Boas práticas</h2>
+            <ul class="sobre-tips">
+              <li>Não envie mais de 50–70 mensagens por dia para evitar banimento do WhatsApp.</li>
+              <li>Use delays entre 35–85 segundos. Envios muito rápidos são detectados como bot.</li>
+              <li>Mantenha o celular conectado à internet e próximo enquanto o app envia.</li>
+              <li>Personalize bem o produto e objetivo na aba IA — isso melhora o score dos leads e as mensagens geradas.</li>
+              <li>Crie uma aba de leads por campanha para manter o histórico organizado.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- PANEL: LOGS -->
+      <section id="panel-logs" class="panel">
+        <div class="panel-header"><div><h2>Logs</h2><p>Atividade do sistema em tempo real</p></div></div>
+        <div class="panel-actions">
+          <button id="btn-clear-logs" class="btn btn-small btn-secondary">Limpar</button>
+        </div>
+        <div class="card full-width">
+          <div class="card-body" style="padding:0;">
+            <div id="logs-container" class="logs-terminal">
+              <div class="log-entry log-info">
+                <span class="log-time">--:--:--</span>
+                <span class="log-msg">Sistema pronto.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- STATUS BAR -->
+  <footer id="statusbar">
+    <div class="status-left">
+      <span class="status-dot" id="status-dot"></span>
+      <span id="status-text">Aguardando...</span>
+    </div>
+    <div class="status-right">
+      <span id="status-leads">Leads: 0</span>
+      <span class="status-sep">·</span>
+      <span id="status-enviados">Enviados: 0</span>
+    </div>
+  </footer>
+
+  <!-- ONBOARDING OVERLAY -->
+  <div id="onboarding-overlay" class="onboarding-overlay" style="display:none;">
+    <div class="onboarding-card">
+      <div class="onboarding-logo">
+        <div class="onboarding-logo-inner">
+          <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" width="26" height="26">
+            <polygon points="9,1 2,9 8,9 7,15 14,7 8,7" fill="#000"/>
+          </svg>
+        </div>
+      </div>
+      <h1>Bem-vindo ao LeadsFlow</h1>
+      <p>Configure seu produto e a IA cuida do resto — nichos, mensagens e horários automaticamente.</p>
+      <button id="btn-onboarding-start" class="btn btn-primary btn-onboarding">Começar a Usar</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,242 @@
+/* LeadsFlow — Login (Dark Terminal Pro) */
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700;800&family=Geist+Mono:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg:          #0c0c0e;
+  --bg-card:     #111114;
+  --bg-input:    #1a1a1f;
+  --border:      rgba(255,255,255,0.07);
+  --border-focus: rgba(0,217,130,0.45);
+  --text-primary:   #e8e8ea;
+  --text-secondary: #a0a0a8;
+  --text-muted:     #5a5a64;
+  --accent:       #00D982;
+  --accent-hover: #00bf72;
+  --red:    #FF4757;
+  --green:  #00D982;
+  --font-ui:   'Geist', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'Geist Mono', 'SF Mono', monospace;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--font-ui);
+  background: var(--bg);
+  color: var(--text-primary);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-image:
+    radial-gradient(ellipse at 20% 20%, rgba(0,217,130,0.04) 0%, transparent 55%),
+    radial-gradient(ellipse at 80% 80%, rgba(0,217,130,0.02) 0%, transparent 55%);
+  -webkit-font-smoothing: antialiased;
+}
+
+.login-container {
+  width: 100%; height: 100%;
+  display: flex; align-items: center; justify-content: center;
+}
+
+.login-card {
+  width: 360px;
+  padding: 36px 32px;
+  background: var(--bg-card);
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.07);
+  box-shadow: 0 24px 64px rgba(0,0,0,0.6), 0 0 0 1px rgba(0,217,130,0.04);
+  text-align: center;
+}
+
+.login-logo {
+  width: 52px; height: 52px; border-radius: 8px;
+  background: var(--accent);
+  display: flex; align-items: center; justify-content: center;
+  margin: 0 auto 18px;
+  box-shadow: 0 0 24px rgba(0,217,130,0.3);
+}
+
+.login-logo svg polygon { fill: #000; }
+
+.login-card h1 {
+  font-size: 20px; font-weight: 700; margin-bottom: 4px; letter-spacing: -0.4px;
+  color: var(--text-primary);
+}
+
+.login-subtitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 26px;
+  font-family: var(--font-mono);
+}
+
+.login-error {
+  background: rgba(255,71,87,0.08);
+  border: 1px solid rgba(255,71,87,0.2);
+  color: var(--red);
+  padding: 9px 12px;
+  border-radius: 4px;
+  font-size: 12.5px;
+  margin-bottom: 14px;
+  text-align: left;
+  font-family: var(--font-mono);
+}
+
+.form-group { margin-bottom: 14px; text-align: left; }
+
+.form-group label {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: var(--font-mono);
+}
+
+.form-group input {
+  width: 100%; padding: 10px 12px;
+  background: var(--bg-input);
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 4px;
+  color: var(--text-primary);
+  font-size: 13.5px;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.18s ease-out, box-shadow 0.18s ease-out;
+}
+
+.form-group input:focus {
+  border-color: var(--border-focus);
+  box-shadow: 0 0 0 3px rgba(0,217,130,0.08);
+}
+
+.form-group input::placeholder { color: var(--text-muted); }
+
+.btn-login {
+  width: 100%; padding: 11px;
+  background: var(--accent);
+  border: none; border-radius: 4px; color: #000;
+  font-size: 13.5px; font-weight: 700; font-family: inherit;
+  cursor: pointer; transition: all 0.18s ease-out; margin-top: 6px;
+  letter-spacing: -0.1px;
+}
+
+.btn-login:hover {
+  background: var(--accent-hover);
+  box-shadow: 0 0 20px rgba(0,217,130,0.25);
+}
+
+.btn-login:active { transform: scale(0.99); }
+.btn-login:disabled { opacity: 0.4; cursor: not-allowed; box-shadow: none; }
+
+.login-divider {
+  display: flex; align-items: center; margin: 18px 0; gap: 10px;
+}
+.login-divider::before, .login-divider::after {
+  content: ""; flex: 1; height: 1px; background: rgba(255,255,255,0.06);
+}
+.login-divider span {
+  font-size: 10px; color: var(--text-muted);
+  text-transform: uppercase; letter-spacing: 1px;
+  font-family: var(--font-mono);
+}
+
+.btn-google {
+  width: 100%; padding: 10px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 4px;
+  color: var(--text-secondary);
+  font-size: 13px; font-weight: 500;
+  font-family: inherit; cursor: pointer; transition: all 0.18s ease-out;
+  display: flex; align-items: center; justify-content: center; gap: 10px;
+}
+
+.btn-google:hover {
+  background: rgba(255,255,255,0.05);
+  border-color: rgba(255,255,255,0.12);
+  color: var(--text-primary);
+}
+
+.btn-google:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.btn-register {
+  width: 100%; padding: 10px;
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 4px;
+  color: var(--text-muted);
+  font-size: 13px; font-weight: 500;
+  font-family: inherit; cursor: pointer; transition: all 0.18s ease-out;
+  margin-top: 8px;
+}
+
+.btn-register:hover {
+  border-color: rgba(255,255,255,0.14);
+  color: var(--text-secondary);
+  background: rgba(255,255,255,0.03);
+}
+
+.btn-register:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.remember-label {
+  display: flex; align-items: center; gap: 8px;
+  font-size: 12.5px; color: var(--text-muted);
+  cursor: pointer; margin-bottom: 14px;
+}
+
+.remember-label input[type="checkbox"] { display: none; }
+
+.remember-label .checkmark {
+  width: 14px; height: 14px;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 3px;
+  background: var(--bg-input);
+  position: relative;
+  transition: all 0.18s ease-out;
+  flex-shrink: 0;
+}
+
+.remember-label input[type="checkbox"]:checked + .checkmark {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.remember-label input[type="checkbox"]:checked + .checkmark::after {
+  content: "";
+  position: absolute;
+  left: 4px; top: 1px;
+  width: 4px; height: 8px;
+  border: solid #000;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.remember-label:hover .checkmark {
+  border-color: rgba(0,217,130,0.3);
+}
+
+.login-footer {
+  margin-top: 20px;
+  font-size: 11px;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  opacity: 0.6;
+}
+
+.btn-login.loading, .btn-register.loading {
+  position: relative; color: transparent;
+}
+
+.btn-login.loading::after, .btn-register.loading::after {
+  content: ""; position: absolute; width: 16px; height: 16px;
+  top: 50%; left: 50%; transform: translate(-50%, -50%);
+  border: 2px solid rgba(0,0,0,0.2); border-top-color: #000;
+  border-radius: 50%; animation: spin 0.6s linear infinite;
+}
+
+@keyframes spin { to { transform: translate(-50%, -50%) rotate(360deg); } }

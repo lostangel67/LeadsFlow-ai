@@ -1,0 +1,59 @@
+name: Build & Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build & Publish
+        run: npx electron-builder --win --publish always
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Verify latest.yml uploaded
+        run: |
+          $tag = "${{ github.ref_name }}"
+          $assets = gh release view $tag --json assets | ConvertFrom-Json
+          $latestYml = $assets.assets | Where-Object { $_.name -eq "latest.yml" }
+          if (-not $latestYml) {
+            Write-Host "latest.yml not found in release, uploading manually..."
+            if (Test-Path "dist/latest.yml") {
+              gh release upload $tag "dist/latest.yml" --clobber
+            } else {
+              Write-Error "dist/latest.yml not found!"
+              exit 1
+            }
+          } else {
+            Write-Host "latest.yml already in release."
+          }
+
+          # Also upload blockmap for delta updates
+          $version = $tag -replace '^v', ''
+          $blockmap = "dist/LeadsFlow-Setup-$version.exe.blockmap"
+          $blockmapName = "LeadsFlow-Setup-$version.exe.blockmap"
+          $existingBlockmap = $assets.assets | Where-Object { $_.name -eq $blockmapName }
+          if (-not $existingBlockmap -and (Test-Path $blockmap)) {
+            Write-Host "Uploading blockmap..."
+            gh release upload $tag $blockmap --clobber
+          }
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
